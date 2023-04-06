@@ -1,0 +1,77 @@
+#EXTM3U
+#List phim VieON viết bởi VThanhTivi - vthanhtivi.pw
+#EXTINF:-1 group-title="Sóng 23" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/01/19/rizs4jge_1920x1080-song23-phan1-doi_296_168.jpeg", Sóng 23 - Tập 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/3630c955-550b-427d-b248-fa0f42b0c509/304303a6-22b6-4942-920d-cba63533b7d7/playlist.m3u8
+#EXTINF:-1 group-title="Sóng 23" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/01/19/v14jg1q9_1920x1080-song23-phan2-that_296_168.jpeg", Sóng 23 - Tập 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/3630c955-550b-427d-b248-fa0f42b0c509/878c90f5-96fd-42b9-a039-3e54e0ed55e5/playlist.m3u8
+#EXTINF:-1 group-title="Sóng 23" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/01/19/hrmeg6y2_1920x1080-song23-phan3-dep_296_168.jpeg", Sóng 23 - Tập 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/3630c955-550b-427d-b248-fa0f42b0c509/eb0898d4-f703-4ecb-a46e-1463068a9ba4/playlist.m3u8
+#EXTINF:-1 group-title="Sóng 23" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/01/19/ysqsehkz_1920x1080-song23-phan4-xuan_296_168.jpeg", Sóng 23 - Tập 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/3630c955-550b-427d-b248-fa0f42b0c509/e953053d-2099-4d58-9f13-5f8e73318d4c/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/01/08/4c82uvf9_1920x1080rapviet21obototap12_296_168.jpg", Rap Việt - Mùa 2 - Tập 12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/78916a34-899e-4793-86f2-1b967b487257/6f73e05e-a912-4d85-af80-da3d3840141b/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/01/14/zq9vbgw3_1920x1080rapviet21dlowtap13_296_168.jpg", Rap Việt - Mùa 2 - Tập 13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/78916a34-899e-4793-86f2-1b967b487257/dd98ef9d-f607-49f2-b70c-df6d9e93fd4b/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/01/21/yneadnka_1920x1080rapviet21rhymastictap14_296_168.jpg", Rap Việt - Mùa 2 - Tập 14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/78916a34-899e-4793-86f2-1b967b487257/0382fa96-ec1a-4023-9433-03e0140a3841/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/01/28/62ipce7m_1920x1080-ck1_296_168.jpg", Rap Việt - Mùa 2 - Chung Kết 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/78916a34-899e-4793-86f2-1b967b487257/6252a674-3b0c-4e8a-942f-dd438e376230/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/01/28/bk1ssr2d_1d97a312-0084-45c1-85e6-4b0812bf8b7c_296_168.png", Rap Việt - Mùa 2 - Chung Kết 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/78916a34-899e-4793-86f2-1b967b487257/38874b3f-abae-44d2-b6a4-ecd6b19d2322/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/n247rka3_1920x1080-rv1-1_296_168.jpg", Rap Việt - Mùa 1 - Tập 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/38c7a081-3d60-44aa-bbb9-2003eaf89673/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/u2njg3ba_1920x1080-rv1-2_296_168.jpg", Rap Việt - Tập 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/62ec9adb-c130-44fe-8810-b6fcc3c7757e/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/0jiyq3ia_1920x1080-rv1-3_296_168.jpg", Rap Việt - Tập 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/ec0b05b3-1c2d-4cad-80e0-e3bd9dce1330/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/qyau81pm_1920x1080-rv1-4_296_168.jpg", Rap Việt - Tập 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/f2da6e93-968f-4397-800d-6643cda5a5d4/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/r7rkh53y_1920x1080-rv1-5_296_168.jpg", Rap Việt - Mùa 1 - Tập 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/0c7ade6e-ddb9-4ab6-917e-39fed71994ff/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/z4dr81dg_1920x1080-rv1-6_296_168.jpg", Rap Việt - Tập 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/b26bf51d-42cf-49e8-b541-877ea51c7d9e/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/f8o54fq8_1920x1080-rv1-7_296_168.jpg", Rap Việt - Tập 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/aea3ae5e-347a-4ac6-ab20-5317a4ea9f86/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/4706rt9w_1920x1080-rv1-8_296_168.jpg", Rap Việt - Mùa 1 - Tập 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/2c0965fc-2e35-4e61-a527-91edb4dc17f7/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/s106i3rw_1920x1080-rv1-9_296_168.jpg", Rap Việt - Mùa 1 - Tập 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/20069229-1099-410f-ac3a-bc30cbd2218c/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/rxgc552h_1920x1080-rv1-10_296_168.jpg", Rap Việt - Tập 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/fa752ff7-c7ce-4725-960a-a29f3ea95e89/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/4wgegib9_1920x1080-rv1-11_296_168.jpg", Rap Việt - Tập 11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/7d6aac5e-f4f9-426c-87cb-c5d41e96e005/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/xiaqnw9o_1920x1080-rv1-12_296_168.jpg", Rap Việt - Tập 12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/84705f16-4a6a-41d9-bfee-719c0f5fd83a/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/2caipibw_1920x1080-rv1-13_296_168.jpg", Rap Việt - Tập 13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/e8088c4b-8ac1-4a45-a820-3eb181628495/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/pgp5acuz_1920x1080-rv1-14_296_168.jpg", Rap Việt - Mùa 1 - Tập 14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/1e9a2667-d20d-4fc2-b491-fbbde1f04355/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/gi2aq9y2_1920x1080-rv1-15_296_168.jpg", Rap Việt - Mùa 1 - Tập 15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/4d35a7f1-c316-4495-ab75-efefef70f004/playlist.m3u8
+#EXTINF:-1 group-title="Rap Việt - Mùa 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/08/z964tar5_1920x1080-rv1-16_296_168.jpg", Rap Việt - Mùa 1 - Tập 16
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/movies/vieon/phimbo/33298093-8ced-4e48-bfef-cc44aeb5e7ae/d5907258-f048-41cd-9383-b1b8f7801bb1/playlist.m3u8
