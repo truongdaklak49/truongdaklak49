@@ -1,5 +1,5 @@
 #EXTM3U
 #List phim VieON viết bởi VThanhTivi - vthanhtivi.pw
-#EXTINF:-1 group-title="Sóng 23" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/01/19/rizs4jge_1920x1080-song23-phan1-doi_296_168.jpeg", NOW TEST
+#EXTINF:-1 group-title="Sóng 23" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/01/19/rizs4jge_1920x1080-song23-phan1-doi_296_168.jpeg", KoolFM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://e106-ts.cdn.bg/planeta/fls/planeta.stream/playlist.m3u8?at=44d6600b9ab246b124215fc5266a8273
+https://stream-163.zeno.fm/nitbfjf8qbnvv?zs=mJWq9ssTTK2sBSyFHNHgpQ
