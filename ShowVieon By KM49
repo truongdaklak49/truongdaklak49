@@ -18,6 +18,6 @@ http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
 #EXTINF:-1 group-title="9" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", GUGAK FM DaeJeon
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakdaejeon/Daejeonradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="9" tvg-logo="-https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", GUGAK FM TV
+#EXTINF:-1 group-title="9" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", GUGAK FM TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakvideo5/gugakvideo5.stream/playlist.m3u8
