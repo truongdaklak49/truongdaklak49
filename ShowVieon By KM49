@@ -24,9 +24,9 @@ https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 #EXTINF:-1 group-title="9" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", GUGAK FM TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakvideo5/gugakvideo5.stream/playlist.m3u8
-#EXTINF:-1 group-title="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", Jeonju MBC
+#EXTINF:-1 group-title="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", Trụ Sở KBS (CCTV KEY24H Update Thường xuyên)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+https://cctvsec1.ktict.co.kr:8082/livekbs/9961/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjMgMTE6MzI6MzYgUE0maGFzaF92YWx1ZT1vMkxKci9BejJhVGthZGMxTWdZUHh3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1 group-title="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", Geyongnam MBC (UHD)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_781A50DD.m3u8
