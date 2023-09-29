@@ -23,7 +23,7 @@ https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 http://mgugaklive.nowcdn.co.kr/gugakvideo5/gugakvideo5.stream/playlist.m3u8
 #EXTINF:-1 group-title="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", NOW TV EVENT 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cod.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
 #EXTINF:-1 group-title="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", Geyongnam MBC (UHD)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_781A50DD.m3u8
