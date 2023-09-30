@@ -66,3 +66,6 @@ https://code.vthanhtivi.pw/getlink/jptvvn/195/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/jptvvn/199/playlist.m3u8
 #EXTINF:-1 group-title="NOW K-SPORTS" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png", SPOTV2
 https://code.vthanhtivi.pw/getlink/jptvvn/200/playlist.m3u8
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://www.tomatoclassic.com/images/logo.png", TOMATO CLASSIC UHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ythls.onrender.com/channel/UC4fNaj5v2JzIbE7fCr_6NnA.m3u8
