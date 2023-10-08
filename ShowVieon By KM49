@@ -19,8 +19,6 @@ https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", GUGAK FM TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakvideo5/gugakvideo5.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW EAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", NOW EAS ALERT
-https://icecast.gwes-eas.network/ERN-DON
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", Geyongnam MBC (UHD)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_781A50DD.m3u8
@@ -69,9 +67,3 @@ https://code.vthanhtivi.pw/getlink/jptvvn/200/playlist.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://www.tomatoclassic.com/images/logo.png", TOMATO CLASSIC UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ythls.onrender.com/channel/UC4fNaj5v2JzIbE7fCr_6NnA.m3u8
-#EXTINF:-1 group-title="NOW EAS" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png", NOW EAS ALERT (WJON)
-http://radio.wjonip.org/wjonip
-#EXTINF:-1 group-title="NOW EAS" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png", NOW EAS ALERT (WJON MASS NWR)
-http://radio.wjonip.org/WJON-MASSNWR
-#EXTINF:-1 group-title="NOW EAS" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png", NOW EAS ALERT (WJON SDR)
-http://radio.wjonip.org/JONTUNER
