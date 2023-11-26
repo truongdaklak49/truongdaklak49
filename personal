@@ -69,13 +69,13 @@ https://www.desizoneradio.com/relay2
 #EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
 https://www.desizoneradio.com/relay3
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1 (GenieTV)
-http://stream.cvmtv.site/KBS1?token=live
+http://free.cvmtv.site/KBS1?token=live
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2 (GenieTV)
-http://stream.cvmtv.site/KBS2?token=live
+http://free.cvmtv.site/KBS2?token=live
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
-http://stream.cvmtv.site/MBC?token=live
+http://free.cvmtv.site/MBC?token=live
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://stream.cvmtv.site/SBS?token=live
+http://free.cvmtv.site/SBS?token=live
 #EXTINF:-1 group-title="NOW UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",HAVANA - IU LIVE [4K60fps]
 https://uhaxsw.sn.files.1drv.com/y4moCFvPUiBf1UFThGbVYyyVKIHuhlOslFWa7_7KBtPyfPXHLxHJe21kzee8cVlQ9QFg9AQHI9v8zNz0XL8l1GcXwk-7N-2nSQWc0YRqdtIIQ6DxM7wd_eVDnFDnKHd3kFHNK2XyYrS5maSzvYOdyacRwSljde52EhPDv4endhTxnC2n4MSSBi69LzeK7X7dMTipU0sYrrGKqaEIf_mpWdyww?format=hls&pretranscode=0&transcodeahead=0&part=index&ccat=2&psi=0131414e-c206-4423-839b-7ca0ba56de33
 #EXTINF:-1 group-title="NOW UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",YOU&I - IU LIVE [4K60fps]
