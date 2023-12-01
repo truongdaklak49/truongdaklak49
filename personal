@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 #KMNOW
 #EXTINF:-1 group-title="NOW INFO" tvg-logo="",KMNOW Welcome
 https://uhcyjw.sn.files.1drv.com/y4mSSgRx_p5wgKTmVtS1zslXBzxD3nUqSCZ5dxNrrsThi9hKUOTvEAbnqvvysPol4qHt9b4FgKgtFxFEq3omoPbLqaXDNevA-1M_NFqX3ZOsCItv9lo0LjEK1H1L01MLLGSH8mFeMSlUHYQuvgqCzvt058m2y-CRkHSDWLmX1z3b96_ohGQRS6NsZz04xAYcx-hN3BVFhbkTtrDGsGgJUdC4A?format=hls&pretranscode=0&transcodeahead=0&part=index&ccat=2&psi=9f1f5e2a-a3a9-491b-b48c-f1f72c15c19f
