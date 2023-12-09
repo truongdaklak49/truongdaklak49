@@ -22,7 +22,7 @@ http://mgugaklive.nowcdn.co.kr/gugakdaejeon/Daejeonradio.stream/playlist.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", GUGAK FM Gwangju
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png", JIBS (Jeju)
+#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", JIBS (Jeju)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="Mediacorp" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png",Channel 5
