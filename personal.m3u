@@ -62,8 +62,8 @@ https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
 https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
-#EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://i.ytimg.com/vi/6OSR_exBXQc/maxresdefault.jpg", KPOP 24/7 By KBS
-https://livestream4.zazerconer.workers.dev/live/6OSR_exBXQc.m3u8
+#EXTINF:-1 group-title="NOW EVENT" tvg-logo="https://i.ytimg.com/vi/6OSR_exBXQc/maxresdefault.jpg", KMINHAEZ LIVE
+https://live.minhaekpop.online/hls/stream.m3u8
 #EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
 https://www.desizoneradio.com/relay1
 #EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
