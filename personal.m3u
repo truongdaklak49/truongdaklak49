@@ -87,17 +87,17 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_new
 #EXTINF:-1 group-title="NOW RADIO" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
 https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_platform%3DWeb%26gdpr%3D1%26gdpr_pd%3D1%26gdpr_consent%3D
 #EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",COLORS HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+https://livevoot.co.in/voot/master.m3u8?id=Colors_HD_voot_MOB
 #EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",MTV HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+https://livevoot.co.in/voot/master.m3u8?id=MTV_HD_Plus_voot_MOB
 #EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",MTV BEATS HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+https://livevoot.co.in/voot/master.m3u8?id=MTV_Beats_HD_voot_MOB
 #EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",COLORS CINEPLEX HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+https://livevoot.co.in/voot/master.m3u8?id=Colors_Cineplex_voot_MOB
 #EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",Sports 18 1 HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",Sports 18 Khel HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB
 #EXTINF:-1 group-title="NOW UHD" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="NOW UHD" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
