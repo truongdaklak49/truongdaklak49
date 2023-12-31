@@ -64,6 +64,8 @@ https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
 #EXTINF:-1 group-title="NOW EVENT" tvg-logo="https://i.ytimg.com/vi/6OSR_exBXQc/maxresdefault.jpg", KMINHAEZ LIVE
 https://live.minhaekpop.online/hls/stream.m3u8
+#EXTINF:-1 group-title="NOW EVENT" tvg-logo="https://i.ytimg.com/vi/6OSR_exBXQc/maxresdefault.jpg", LVTT
+https://sb-1.restream.su/preview/20023/f798c1df-17db-4412-aff2-92be72bd102d.m3u8
 #EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
 https://www.desizoneradio.com/relay1
 #EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
