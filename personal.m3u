@@ -115,7 +115,7 @@ http://110.235.250.7:8087/Live-Hang-Meas-CiNeUHD-PLCTV.m3u8
 http://110.235.250.7:8087/Live-Hang-Meas-MeLoDyUHD-PLCTV.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQBrbTqbAbsMdYYLk-z6v7GzwzDNOeT_-BlbA4P=s900-c-k-c0x00ffffff-no-rj",RHMHDTV
 http://live.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest?cb=20191210055040",HMHDTV
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSsjs2aHSP7v820L2rla7l4fyW5UjMua6331B_D=s900-c-k-c0x00ffffff-no-rj",HMHDTV
 http://malisresidencess.com:1934/redirect/hm_hdtv/smil:HMHDTV.smil?scheme=m3u8
 
 #EXTM3U billed-msg="MY PLAYLIST"
