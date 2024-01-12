@@ -113,5 +113,9 @@ http://110.235.250.7:8087/Live-Hang-Meas-NowUHD-PLCTV.m3u8
 http://110.235.250.7:8087/Live-Hang-Meas-CiNeUHD-PLCTV.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Hang_Meas_Melody_UHDTV_Logo_2023-Present.png",HMMLDUHD
 http://110.235.250.7:8087/Live-Hang-Meas-MeLoDyUHD-PLCTV.m3u8
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",RHMHDTV
+http://live.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",HMHDTV
+http://malisresidencess.com:1934/redirect/hm_hdtv/smil:HMHDTV.smil?scheme=m3u8
 
 #EXTM3U billed-msg="MY PLAYLIST"
