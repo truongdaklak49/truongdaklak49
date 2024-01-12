@@ -110,7 +110,7 @@ http://59.8.86.15:1935/live/60.stream/playlist.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png",HMNOWUHD
 http://110.235.250.7:8087/Live-Hang-Meas-NowUHD-PLCTV.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hang_Meas_Cine_UHDTV_Logo_2022.png/1200px-Hang_Meas_Cine_UHDTV_Logo_2022.png",HMCNUHD
-http://110.235.250.7:8087/Live-Hang-Meas-CiNEUHD-PLCTV.m3u8
+http://110.235.250.7:8087/Live-Hang-Meas-CiNeUHD-PLCTV.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Hang_Meas_Melody_UHDTV_Logo_2023-Present.png",HMMLDUHD
 http://110.235.250.7:8087/Live-Hang-Meas-MeLoDyUHD-PLCTV.m3u8
 
