@@ -109,7 +109,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&b
 http://59.8.86.15:1935/live/60.stream/playlist.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png",HMNOWUHD
 http://110.235.250.7:8087/Live-Hang-Meas-NowUHD-PLCTV.m3u8
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/caa3bbed-805a-4ff1-82f3-07529c4a34bc/dfk3ebi-dcb9e95d-d83c-4be1-9bca-0826c6beb44c.png/v1/fill/w_1280,h_407/hang_meas_cine_uhdtv_cambodia_logo_2022_by_angthongcabletv_dfk3ebi-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDA3IiwicGF0aCI6IlwvZlwvY2FhM2JiZWQtODA1YS00ZmYxLTgyZjMtMDc1MjljNGEzNGJjXC9kZmszZWJpLWRjYjllOTVkLWQ4M2MtNGJlMS05YmNhLTA4MjZjNmJlYjQ0Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hZiIm-gvBAMDFgIHzMEGamBbEO1phPLkklux1N5eWX0",HMCNUHD
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hang_Meas_Cine_UHDTV_Logo_2022.png/1200px-Hang_Meas_Cine_UHDTV_Logo_2022.png",HMCNUHD
 http://110.235.250.7:8087/Live-Hang-Meas-CiNEUHD-PLCTV.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Hang_Meas_Melody_UHDTV_Logo_2023-Present.png",HMMLDUHD
 http://110.235.250.7:8087/Live-Hang-Meas-MeLoDyUHD-PLCTV.m3u8
