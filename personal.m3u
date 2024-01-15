@@ -119,5 +119,7 @@ http://110.235.250.7:8087/Live-Hang-Meas-MeLoDyUHD-PLCTV.m3u8
 http://live.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSsjs2aHSP7v820L2rla7l4fyW5UjMua6331B_D=s900-c-k-c0x00ffffff-no-rj",HMHDTV
 http://malisresidencess.com:1934/redirect/hm_hdtv/smil:HMHDTV.smil?scheme=m3u8
+#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/1200px-Logo_of_the_Korean_Central_Television.svg.png", KCTV
+https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTM3U billed-msg="MY PLAYLIST"
