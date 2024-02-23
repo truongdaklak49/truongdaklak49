@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
-https://www.desizoneradio.com/relay1
-#EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
-https://www.desizoneradio.com/relay2
-#EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
-https://www.desizoneradio.com/relay3
