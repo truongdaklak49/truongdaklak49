@@ -1,7 +1,15 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Tè Lu Gú
 https://toxicify.pro/stalker/jio.m3u8?id=8457
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://dishtv.mogiio.com/activeservice/punjabi/logo.png?v=2",XPL 4K (#maksad)
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Hình Đi
+https://toxicify.pro/stalker/jio.m3u8?id=14790
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Tà Sữa
+https://toxicify.pro/stalker/jio.m3u8?id=363
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Anh
+https://toxicify.pro/stalker/jio.m3u8?id=6068
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Gì Ô 4K (VPN)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1280324/index.m3u8
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",TATA 4K (#maksad)
 https://toxicify.pro/stalker/jio.m3u8?id=18855
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1
 https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
