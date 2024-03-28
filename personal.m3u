@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#personal
-#EXTINF:-1 group-title="NOW INFO" tvg-logo="",Welcome
-https://vyxt9w.sn.files.1drv.com/y4mheueAkirAinZESWqemafsj5GOXmYajD8any-g-OBQMwWAgdAumRYcry8NK9vFU8IRO_I3GICIV3izADCe3CIhrVF_bpI1fc1HpRgHj_t-tVQRqr9od7j9YUMZCtgouFUDqZpAGovwYSsfMeFHUCB16eW9jIDnKCjQwNXo5HyBZxVrGp_PFJEClJaREOapRfPJyqmbm8LjpsFcZXxsOyL6A?videoformat=dash&part=index&pretranscode=0&transcodeahead=0
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Tè Lu Gú
+https://toxicify.pro/stalker/jio.m3u8?id=8457
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://dishtv.mogiio.com/activeservice/punjabi/logo.png?v=2",XPL 4K (#maksad)
 https://toxicify.pro/stalker/jio.m3u8?id=18855
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1
