@@ -13,8 +13,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_h
 https://toxicify.pro/stalker/jio.m3u8?id=18855
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1
 https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", KBS2
-https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://yt3.googleusercontent.com/Lcne_mw-3l5V_BntNtQxumT2TN8uhs1jsXOqFKY_fD9HY1weYv1tvgHbzW6cEEw3O4ZU7xJ9Dw=s900-c-k-c0x00ffffff-no-rj", Btv
 http://tbroad-233.live.wecandeo.com/live/3/232_high.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png", CJ ONSTYLE
