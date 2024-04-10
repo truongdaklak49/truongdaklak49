@@ -53,8 +53,8 @@ https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 https://natv.vncdn.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/2560px-KBS_JOY.svg.png", NTV HD Feed MEDIATECH
 https://vncdn.mediatech.vn/natvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", Nghệ An RADIO
-http://125.212.237.207:8000/tinhnghean
+#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", Nghệ An RADIO (Trễ 5 Phút)
+https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/2560px-KBS_Life.svg.png", KBS Life
 https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
