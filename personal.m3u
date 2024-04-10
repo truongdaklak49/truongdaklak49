@@ -76,7 +76,7 @@ http://radio.wjonip.org/WJON-WSCN
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
 http://free.cvmtv.site/MBC?token=live
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://free.cvmtv.site/SBS?token=live
+http://www.hwado.net/webtv/public/31_0B41417D.php
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS (VTHANH JP)
 http://jp.vthanhnetwork.com/SBS/index.m3u8
 #EXTINF:-1 group-title="NOW UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",HAVANA - IU LIVE [4K60fps]
