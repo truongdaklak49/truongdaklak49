@@ -1,14 +1,4 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Tè Lu Gú
-https://toxicify.pro/stalker/jio.m3u8?id=8457
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Hình Đi
-https://toxicify.pro/stalker/jio.m3u8?id=14790
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Tà Sữa
-https://toxicify.pro/stalker/jio.m3u8?id=363
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Sao Anh
-https://toxicify.pro/stalker/jio.m3u8?id=6068
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Gì Ô 4K (VPN)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1280324/index.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="",TATA 4K (#maksad)
 https://toxicify.pro/stalker/jio.m3u8?id=18855
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBC Siêu THẤP
@@ -59,12 +49,12 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 https://livestream2.zazerconer.workers.dev/c/TomatoClassic.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
 https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", KBS Drama
-https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/2560px-KBS_JOY.svg.png", KBS Joy
-https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", KBS Story
-https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
+#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", NTV HD Feed Gốc
+https://natv.vncdn.vn/natvlive/tv1live.m3u8
+#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/2560px-KBS_JOY.svg.png", NTV HD Feed MEDIATECH
+https://vncdn.mediatech.vn/natvlive/tv1live.m3u8
+#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", Nghệ An RADIO
+http://125.212.237.207:8000/tinhnghean
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/2560px-KBS_Life.svg.png", KBS Life
 https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
