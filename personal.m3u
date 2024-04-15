@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",TATA 4K (#maksad)
-https://toxicify.pro/stalker/jio.m3u8?id=18855
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",SAMSUNG UHD
+https://play-kr.samsungtvplus.com/tvplus/web/v3/playlist?tid=VUc0eFgvR3BDTVZ0eGlqcUdvbkxHMm1hZTJQeldsQlNORVZNNjU1UDhNY1RHYTNGNDlINUl5aHRNWXFHM1dWcFRmTHVZa0FKSzJ1cGlDZTJldUd4WmxKZlZ3N2NiN0lsMEhENitQMHBNY2ZEVkNLT2swanhVYUVZYXJXbXZ1c1p0U053bTV0M2dvTm9HMURMUUkrTVVKMUlXREM5YUVWYmZ4WklZdmFoeEhYNVZjejd1bHlodVpZY2tFMFhBN1NybEZwMkVWRGwyZzRlMGpOSEZtMEFZUT09&b_ip=3.36.53.96
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBC Siêu THẤP
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", G1
