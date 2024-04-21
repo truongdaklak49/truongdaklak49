@@ -116,5 +116,10 @@ http://live.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playli
 http://malisresidencess.com:1934/redirect/hm_hdtv/smil:HMHDTV.smil?scheme=m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/1200px-Logo_of_the_Korean_Central_Television.svg.png", KCTV
 https://tv.nknews.org/tvdash/stream.mpd
-
+#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghi Lộc
+http://net-radio.vov.link:8000/H_Nghi_Loc
+#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Thanh Chương
+http://truyenthanhip.vov.link:8000/thanhchuong
+#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghĩa Đàn
+http://net-radio.vov.link:8000/H_Nghia_Dan
 #EXTM3U billed-msg="MY PLAYLIST"
