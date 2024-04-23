@@ -122,4 +122,14 @@ http://net-radio.vov.link:8000/H_Nghi_Loc
 http://truyenthanhip.vov.link:8000/thanhchuong
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghĩa Đàn
 http://net-radio.vov.link:8000/H_Nghia_Dan
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",KUBUSU KBO
+https://is.gd/z9zmk4
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="", SUBUSU KBO
+https://is.gd/DtCxYN
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="", MBIC KBO
+https://is.gd/pjiQAt
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Tốc Độ TV KBO
+https://is.gd/xNt8uP
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Tốc Độ TV 2 KBO
+https://is.gd/gcecfU
 #EXTM3U billed-msg="MY PLAYLIST"
