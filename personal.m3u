@@ -104,18 +104,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&b
 #EXTINF:-1 group-title="NOW CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://59.8.86.15:1935/live/60.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png",HMNOWUHD
-http://110.235.250.7:8087/Live-Hang-Meas-NowUHD-PLCTV.m3u8
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hang_Meas_Cine_UHDTV_Logo_2022.png/1200px-Hang_Meas_Cine_UHDTV_Logo_2022.png",HMCNUHD
-http://110.235.250.7:8087/Live-Hang-Meas-CiNeUHD-PLCTV.m3u8
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Hang_Meas_Melody_UHDTV_Logo_2023-Present.png",HMMLDUHD
-http://110.235.250.7:8087/Live-Hang-Meas-MeLoDyUHD-PLCTV.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQBrbTqbAbsMdYYLk-z6v7GzwzDNOeT_-BlbA4P=s900-c-k-c0x00ffffff-no-rj",RHMHDTV
 http://live.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NOW UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSsjs2aHSP7v820L2rla7l4fyW5UjMua6331B_D=s900-c-k-c0x00ffffff-no-rj",HMHDTV
 http://malisresidencess.com:1934/redirect/hm_hdtv/smil:HMHDTV.smil?scheme=m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/1200px-Logo_of_the_Korean_Central_Television.svg.png", KCTV
-https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghi Lộc
 http://net-radio.vov.link:8000/H_Nghi_Loc
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Thanh Chương
