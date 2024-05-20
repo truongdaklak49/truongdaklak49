@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",SAMSUNG UHD
-https://play-kr.samsungtvplus.com/tvplus/web/v3/playlist?tid=Ukw4Y1RWcmJhR3dCKzA3THZWSWdCT0kwR3poQk9rakRVVFYrQm5jSE9YMytBSkRHRzBkUVpENHpuZms1am0yWnU2WnVXUnR3SjdMeFF6YXFVdzNZMmNDSTNucGVnaEJhMkVOY3NSejg0M2xBWXhJYWZvZGRONnJCaVY5OWdFZVRzOTlZUU9Yc0lQRGFkY3FHY3ZYczV6bUNqVE56TW1mQjU1U3FXRFZ6Vk5uRndZM3JtcEtTMzZWMWdYRjZUTUtLRVYwNEFVUUlUL3VtNER0dSsyQWZBUT09&b_ip=3.36.53.96
+#EXTINF:-1 group-title="NOW UHD" tvg-logo="",BRTV 8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBC Siêu THẤP
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", G1
