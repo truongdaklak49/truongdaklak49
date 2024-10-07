@@ -1,55 +1,35 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",BRTV 8K
+#EXTINF:-1 group-title="8K" tvg-logo="",BRTV 8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",CCTV8K
+#EXTINF:-1 group-title="8K" tvg-logo="",CCTV8K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBC Siêu THẤP
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBC Siêu THẤP
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", G1
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", G1
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://yt3.googleusercontent.com/Lcne_mw-3l5V_BntNtQxumT2TN8uhs1jsXOqFKY_fD9HY1weYv1tvgHbzW6cEEw3O4ZU7xJ9Dw=s900-c-k-c0x00ffffff-no-rj", Btv
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://yt3.googleusercontent.com/Lcne_mw-3l5V_BntNtQxumT2TN8uhs1jsXOqFKY_fD9HY1weYv1tvgHbzW6cEEw3O4ZU7xJ9Dw=s900-c-k-c0x00ffffff-no-rj", Btv
 http://tbroad-233.live.wecandeo.com/live/3/232_high.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png", CJ ONSTYLE
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png", CJ ONSTYLE
 https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", GUGAK TV
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", GUGAK TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm01.gif", GUGAK FM
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm01.gif", GUGAK FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm03.gif", GUGAK FM DaeJeon
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm03.gif", GUGAK FM DaeJeon
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakdaejeon/Daejeonradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", GUGAK FM Gwangju
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", GUGAK FM Gwangju
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", JIBS (Jeju)
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", JIBS (Jeju)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="Mediacorp" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png",Channel 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-#EXTINF:-1 group-title="Mediacorp" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png",Channel 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-#EXTINF:-1 group-title="Mediacorp" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png",Channel U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-#EXTINF:-1 group-title="Mediacorp" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png",Suria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-#EXTINF:-1 group-title="Mediacorp" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://www.tomatoclassic.com/images/logo.png", TOMATO CLASSIC UHD
+#EXTINF:-1 group-title="Kênh UHD" tvg-logo="https://www.tomatoclassic.com/images/logo.png", TOMATO CLASSIC UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livestream2.zazerconer.workers.dev/c/TomatoClassic.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
 https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", NTV HD Feed Gốc
 https://natv.vncdn.vn/natvlive/tv1live.m3u8
@@ -57,58 +37,34 @@ https://natv.vncdn.vn/natvlive/tv1live.m3u8
 https://vncdn.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", Nghệ An RADIO (Trễ 5 Phút)
 https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/2560px-KBS_Life.svg.png", KBS Life
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/2560px-KBS_Life.svg.png", KBS Life
 https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
 https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
-#EXTINF:-1 group-title="NOW EVENT" tvg-logo="https://i.ytimg.com/vi/6OSR_exBXQc/maxresdefault.jpg", KMINHAEZ LIVE
-https://live.minhaekpop.online/hls/stream.m3u8
-#EXTINF:-1 group-title="NOW EVENT" tvg-logo="https://i.ytimg.com/vi/6OSR_exBXQc/maxresdefault.jpg", LVTT
-https://sb-1.restream.su/preview/20023/f798c1df-17db-4412-aff2-92be72bd102d.m3u8
-#EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
+#EXTINF:-1 group-title="RadioMUSIC" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
 https://www.desizoneradio.com/relay1
-#EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
+#EXTINF:-1 group-title="RadioMUSIC" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
 https://www.desizoneradio.com/relay2
-#EXTINF:-1 group-title="NOW MUSIC" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
+#EXTINF:-1 group-title="RadioMUSIC" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
 https://www.desizoneradio.com/relay3
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1 (GenieTV)
-http://free.cvmtv.site/KBS1?token=live
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",Khẩn Từ WJON
+#EXTINF:-1 group-title="Tin Khẩn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",Khẩn Từ WJON
 http://radio.wjonip.org/WJON-WSCN
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
-http://free.cvmtv.site/MBC?token=live
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://www.hwado.net/webtv/public/31_0B41417D.php
-#EXTINF:-1 group-title="NOW KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS (VTHANH JP)
-http://jp.vthanhnetwork.com/SBS/index.m3u8
-#EXTINF:-1 group-title="NOW UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",HAVANA - IU LIVE [4K60fps]
+#EXTINF:-1 group-title="UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",HAVANA - IU LIVE [4K60fps]
 https://uhaxsw.sn.files.1drv.com/y4moCFvPUiBf1UFThGbVYyyVKIHuhlOslFWa7_7KBtPyfPXHLxHJe21kzee8cVlQ9QFg9AQHI9v8zNz0XL8l1GcXwk-7N-2nSQWc0YRqdtIIQ6DxM7wd_eVDnFDnKHd3kFHNK2XyYrS5maSzvYOdyacRwSljde52EhPDv4endhTxnC2n4MSSBi69LzeK7X7dMTipU0sYrrGKqaEIf_mpWdyww?format=hls&pretranscode=0&transcodeahead=0&part=index&ccat=2&psi=0131414e-c206-4423-839b-7ca0ba56de33
-#EXTINF:-1 group-title="NOW UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",YOU&I - IU LIVE [4K60fps]
+#EXTINF:-1 group-title="UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",YOU&I - IU LIVE [4K60fps]
 https://uhb8pg.sn.files.1drv.com/y4mRkwSySxMgMt4qDogFFIeExKOpas5ETYPGxJ3-zVVQnniYI4405YFIZ0gB6INqFZXWOv0ijfSv5pMw7C6FEhB_S0M197HA_Yu89233RMYJ_PcNuKxlD0DpsXpdKNPjYBB3S2JFRsBeR6IaGjAHVgcjlBPtL0URe4hdVmFwbhpXRaXxLbrG5o89tAb8SlCroCYBKcfl5TPg26yVLG_Wtx9TA?format=hls&pretranscode=0&transcodeahead=0&part=index&ccat=2&psi=81348658-4eef-4ede-b8b1-24e6c3ade285
-#EXTINF:-1 group-title="NOW RADIO" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
 https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_platform%3DWeb%26gdpr%3D1%26gdpr_pd%3D1%26gdpr_consent%3D
-#EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",COLORS HD
-https://livevoot.co.in/voot/master.m3u8?id=Colors_HD_voot_MOB
-#EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",MTV HD
-https://livevoot.co.in/voot/master.m3u8?id=MTV_HD_Plus_voot_MOB
-#EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",MTV BEATS HD
-https://livevoot.co.in/voot/master.m3u8?id=MTV_Beats_HD_voot_MOB
-#EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",COLORS CINEPLEX HD
-https://livevoot.co.in/voot/master.m3u8?id=Colors_Cineplex_voot_MOB
-#EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",Sports 18 1 HD
-https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
-#EXTINF:-1 group-title="NOW INDIA" tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA",Sports 18 Khel HD
-https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB
-#EXTINF:-1 group-title="NOW UHD" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
+#EXTINF:-1 group-title="Kênh UHD" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="NOW UHD" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
+#EXTINF:-1 group-title="Kênh UHD" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="NOW CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://59.8.86.15:1935/live/60.stream/playlist.m3u8
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQBrbTqbAbsMdYYLk-z6v7GzwzDNOeT_-BlbA4P=s900-c-k-c0x00ffffff-no-rj",RHMHDTV
+#EXTINF:-1 group-title="Kênh UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQBrbTqbAbsMdYYLk-z6v7GzwzDNOeT_-BlbA4P=s900-c-k-c0x00ffffff-no-rj",RHMHDTV
 http://live.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSsjs2aHSP7v820L2rla7l4fyW5UjMua6331B_D=s900-c-k-c0x00ffffff-no-rj",HMHDTV
+#EXTINF:-1 group-title="Kênh UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSsjs2aHSP7v820L2rla7l4fyW5UjMua6331B_D=s900-c-k-c0x00ffffff-no-rj",HMHDTV
 http://malisresidencess.com:1934/redirect/hm_hdtv/smil:HMHDTV.smil?scheme=m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghi Lộc
 http://net-radio.vov.link:8000/H_Nghi_Loc
@@ -116,14 +72,14 @@ http://net-radio.vov.link:8000/H_Nghi_Loc
 http://truyenthanhip.vov.link:8000/thanhchuong
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghĩa Đàn
 http://net-radio.vov.link:8000/H_Nghia_Dan
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",KUBUSU KBO
+#EXTINF:-1 group-title="KBO" tvg-logo="",KUBUSU KBO
 https://is.gd/z9zmk4
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="", SUBUSU KBO
+#EXTINF:-1 group-title="KBO" tvg-logo="", SUBUSU KBO
 https://is.gd/DtCxYN
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="", MBIC KBO
+#EXTINF:-1 group-title="KBO" tvg-logo="", MBIC KBO
 https://is.gd/pjiQAt
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Tốc Độ TV KBO
+#EXTINF:-1 group-title="KBO" tvg-logo="",Tốc Độ TV KBO
 https://is.gd/xNt8uP
-#EXTINF:-1 group-title="NOW UHD" tvg-logo="",Tốc Độ TV 2 KBO
+#EXTINF:-1 group-title="KBO" tvg-logo="",Tốc Độ TV 2 KBO
 https://is.gd/gcecfU
-#EXTM3U billed-msg="MY PLAYLIST"
+#EXTM3U billed-msg="UHD Checked"
