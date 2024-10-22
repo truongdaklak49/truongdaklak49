@@ -77,4 +77,10 @@ https://is.gd/gcecfU
 https://is.gd/xoFGbX
 #EXTINF:-1 group-title="EVENT" tvg-logo="",Mosaic5K (Yêu cầu IP Hàn)
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="RADIO" tvg-logo="",Love FM (Stream Melon Miễn Phí)
+https://is.gd/sTI3al
+#EXTINF:-1 group-title="RADIO" tvg-logo="",MBC FM Hệ Hình (Stream Khi Có Chương trình)
+https://is.gd/mifAlC
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
+https://is.gd/jbDtKq
 #EXTM3U billed-msg="UHD Checked"
