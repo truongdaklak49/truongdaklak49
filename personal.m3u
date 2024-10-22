@@ -26,9 +26,6 @@ https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", JIBS (Jeju)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="Kênh UHD" tvg-logo="https://www.tomatoclassic.com/images/logo.png", TOMATO CLASSIC UHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livestream2.zazerconer.workers.dev/c/TomatoClassic.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
 https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", NTV HD Feed Gốc
@@ -55,31 +52,27 @@ https://uhaxsw.sn.files.1drv.com/y4moCFvPUiBf1UFThGbVYyyVKIHuhlOslFWa7_7KBtPyfPX
 https://uhb8pg.sn.files.1drv.com/y4mRkwSySxMgMt4qDogFFIeExKOpas5ETYPGxJ3-zVVQnniYI4405YFIZ0gB6INqFZXWOv0ijfSv5pMw7C6FEhB_S0M197HA_Yu89233RMYJ_PcNuKxlD0DpsXpdKNPjYBB3S2JFRsBeR6IaGjAHVgcjlBPtL0URe4hdVmFwbhpXRaXxLbrG5o89tAb8SlCroCYBKcfl5TPg26yVLG_Wtx9TA?format=hls&pretranscode=0&transcodeahead=0&part=index&ccat=2&psi=81348658-4eef-4ede-b8b1-24e6c3ade285
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
 https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_platform%3DWeb%26gdpr%3D1%26gdpr_pd%3D1%26gdpr_consent%3D
-#EXTINF:-1 group-title="Kênh UHD" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="Kênh UHD" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://59.8.86.15:1935/live/60.stream/playlist.m3u8
-#EXTINF:-1 group-title="Kênh UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQBrbTqbAbsMdYYLk-z6v7GzwzDNOeT_-BlbA4P=s900-c-k-c0x00ffffff-no-rj",RHMHDTV
-http://live.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kênh UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSsjs2aHSP7v820L2rla7l4fyW5UjMua6331B_D=s900-c-k-c0x00ffffff-no-rj",HMHDTV
-http://malisresidencess.com:1934/redirect/hm_hdtv/smil:HMHDTV.smil?scheme=m3u8
+#EXTINF:-1 group-title="Kênh UHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQBrbTqbAbsMdYYLk-z6v7GzwzDNOeT_-BlbA4P=s900-c-k-c0x00ffffff-no-rj",Trống
+https://is.gd/xoFGbX
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghi Lộc
 http://net-radio.vov.link:8000/H_Nghi_Loc
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Thanh Chương
 http://truyenthanhip.vov.link:8000/thanhchuong
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghĩa Đàn
 http://net-radio.vov.link:8000/H_Nghia_Dan
-#EXTINF:-1 group-title="KBO" tvg-logo="",KUBUSU KBO
+#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện K
 https://is.gd/z9zmk4
-#EXTINF:-1 group-title="KBO" tvg-logo="", SUBUSU KBO
+#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện S
 https://is.gd/DtCxYN
-#EXTINF:-1 group-title="KBO" tvg-logo="", MBIC KBO
+#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện M
 https://is.gd/pjiQAt
-#EXTINF:-1 group-title="KBO" tvg-logo="",Tốc Độ TV KBO
+#EXTINF:-1 group-title="EVENT" tvg-logo="", Sự Kiện SP
 https://is.gd/xNt8uP
-#EXTINF:-1 group-title="KBO" tvg-logo="",Tốc Độ TV 2 KBO
+#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện SP2
 https://is.gd/gcecfU
+#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện (DTV Dự Phòng)
+https://is.gd/xoFGbX
 #EXTM3U billed-msg="UHD Checked"
