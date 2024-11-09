@@ -26,18 +26,14 @@ https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", JIBS (Jeju)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
-https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", MBC
+https://is.gd/9qDXKp
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", NTV HD Feed Gốc
 https://natv.vncdn.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/2560px-KBS_JOY.svg.png", NTV HD Feed MEDIATECH
 https://vncdn.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", Nghệ An RADIO (Trễ 5 Phút)
 https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/2560px-KBS_Life.svg.png", KBS Life
-https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
-https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
 #EXTINF:-1 group-title="RadioMUSIC" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
 https://www.desizoneradio.com/relay1
 #EXTINF:-1 group-title="RadioMUSIC" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
