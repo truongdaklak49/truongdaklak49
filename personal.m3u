@@ -39,11 +39,11 @@ https://natv.vncdn.vn/natvlive/tv1live.m3u8
 https://vncdn.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", Nghệ An RADIO (Trễ 5 Phút)
 https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
-#EXTINF:-1 group-title="RadioMUSIC" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
 https://www.desizoneradio.com/relay1
-#EXTINF:-1 group-title="RadioMUSIC" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
+#EXTINF:-1 group-title="Radio" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
 https://www.desizoneradio.com/relay2
-#EXTINF:-1 group-title="RadioMUSIC" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
+#EXTINF:-1 group-title="Radio" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
 https://www.desizoneradio.com/relay3
 #EXTINF:-1 group-title="Tin Khẩn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",Khẩn Từ WJON
 http://radio.wjonip.org/WJON-WSCN
@@ -84,4 +84,6 @@ https://is.gd/sTI3al
 https://is.gd/mifAlC
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
 https://is.gd/jbDtKq
+#EXTINF:-1 group-title="RADIO" tvg-logo="",HangMeasFM 104.5Mhz (HD 256Kpbs)
+http://malisresidencess.com:89/broadwavehigh.mp3?src=1
 #EXTM3U billed-msg="UHD Checked"
