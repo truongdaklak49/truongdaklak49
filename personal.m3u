@@ -45,8 +45,8 @@ https://www.desizoneradio.com/relay1
 https://www.desizoneradio.com/relay2
 #EXTINF:-1 group-title="Radio" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
 https://www.desizoneradio.com/relay3
-#EXTINF:-1 group-title="Tin Khẩn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",Khẩn Từ WJON
-http://radio.wjonip.org/WJON-WSCN
+#EXTINF:-1 group-title="Vệ Tinh Ả Rập" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png?height=379.5&width=675&croppingPoint=&version=1&type=webp", SSC1 HD (Vệ Tinh QOBX)
+https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 group-title="UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",HAVANA - IU LIVE [4K60fps]
 https://uhaxsw.sn.files.1drv.com/y4moCFvPUiBf1UFThGbVYyyVKIHuhlOslFWa7_7KBtPyfPXHLxHJe21kzee8cVlQ9QFg9AQHI9v8zNz0XL8l1GcXwk-7N-2nSQWc0YRqdtIIQ6DxM7wd_eVDnFDnKHd3kFHNK2XyYrS5maSzvYOdyacRwSljde52EhPDv4endhTxnC2n4MSSBi69LzeK7X7dMTipU0sYrrGKqaEIf_mpWdyww?format=hls&pretranscode=0&transcodeahead=0&part=index&ccat=2&psi=0131414e-c206-4423-839b-7ca0ba56de33
 #EXTINF:-1 group-title="UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",YOU&I - IU LIVE [4K60fps]
@@ -86,6 +86,4 @@ https://is.gd/mifAlC
 https://is.gd/jbDtKq
 #EXTINF:-1 group-title="RADIO" tvg-logo="",HangMeasFM 104.5Mhz (HD 256Kpbs)
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
-#EXTINF:-1 group-title="Vệ Tinh Ả Rập" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png?height=379.5&width=675&croppingPoint=&version=1&type=webp", SSC1 HD (Vệ Tinh QOBX)
-https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTM3U billed-msg="UHD Checked"
