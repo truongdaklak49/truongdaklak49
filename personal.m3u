@@ -86,4 +86,6 @@ https://is.gd/mifAlC
 https://is.gd/jbDtKq
 #EXTINF:-1 group-title="RADIO" tvg-logo="",HangMeasFM 104.5Mhz (HD 256Kpbs)
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
+#EXTINF:-1 group-title="Vệ Tinh Ả Rập" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png?height=379.5&width=675&croppingPoint=&version=1&type=webp", SSC1 HD (Vệ Tinh QOBX)
+https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTM3U billed-msg="UHD Checked"
