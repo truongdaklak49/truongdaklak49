@@ -23,13 +23,13 @@ https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", GUGAK TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm01.gif", GUGAK FM
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm01.gif", GUGAK FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm03.gif", GUGAK FM DaeJeon
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm03.gif", GUGAK FM DaeJeon
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakdaejeon/Daejeonradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", GUGAK FM Gwangju
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", GUGAK FM Gwangju
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", Jeju
@@ -43,17 +43,17 @@ https://natv.vncdn.vn/natvlive/tv1live.m3u8
 https://vncdn.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", Nghệ An RADIO (Trễ 5 Phút)
 https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
 https://www.desizoneradio.com/relay1
-#EXTINF:-1 group-title="Radio" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
 https://www.desizoneradio.com/relay2
-#EXTINF:-1 group-title="Radio" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
 https://www.desizoneradio.com/relay3
 #EXTINF:-1 group-title="Vệ Tinh Ả Rập" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png?height=379.5&width=675&croppingPoint=&version=1&type=webp", SSC1 HD (Vệ Tinh QOBX)
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 group-title="UHD Performance" tvg-logo="https://logowik.com/content/uploads/images/4k-video.jpg",TJB GayoDaejeon - G-DRAGON [4K60fps]
 https://gappz-my.sharepoint.com/personal/kpopbuzzhub02_gappz_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=7d04e064-c865-4b61-85b8-b2eff6771808&Translate=false&tempauth=v1.eyJzaXRlaWQiOiI4NDljNDA1My0xODFlLTRmMDEtODBlNi00MGUxOGE2NzZlZjciLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvZ2FwcHotbXkuc2hhcmVwb2ludC5jb21ANDAxNjM3ZGYtYjg1My00MWI1LTkzNGEtOGJjZTA0MDI5YjE0IiwiZXhwIjoiMTczNjE3NDYyOCJ9.CiMKCXNoYXJpbmdpZBIWRDl1L01EeFB3a1d2UW9obG8rNHdLZwoKCgRzbmlkEgI0MxILCLK-_-LFmNc9EAUaGTJhMDk6YmFjNTpkNDVhOmU2OjoxNzozMzEiFG1pY3Jvc29mdC5zaGFyZXBvaW50KixkNW1lelZRV3RzZjlwRllZWTZjakRuTlVYNTN0OUJRaTFqSEJWcVRJZFVZPTCkATgBQhChdOCFbBAAQFiePpzzU-aqShBoYXNoZWRwcm9vZnRva2VuYgR0cnVlcmEwaC5mfG1lbWJlcnNoaXB8dXJuJTNhc3BvJTNhYW5vbiMzMjdjN2YxYmVkZjg3OTk5MTU4YmZkMWQxMGVkZWVkZGUwNWJjMDg1MDA1ZTQwNGRkM2VhYTA3YTJiZjYyY2E2egEwwgFhMCMuZnxtZW1iZXJzaGlwfHVybiUzYXNwbyUzYWFub24jMzI3YzdmMWJlZGY4Nzk5OTE1OGJmZDFkMTBlZGVlZGRlMDViYzA4NTAwNWU0MDRkZDNlYWEwN2EyYmY2MmNhNsgBAQ.Fo4rRzglmlJuII-f_9b4ccIj9aGlW1fWZWrBpvLVpLM&psi=995056ec-8470-4618-9329-cf9724987a79&client=streamvideoplayer&correlationid=85e074a1-106c-4000-589e-3e9cf353e6aa
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
 https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_platform%3DWeb%26gdpr%3D1%26gdpr_pd%3D1%26gdpr_consent%3D
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -80,12 +80,12 @@ https://is.gd/gcecfU
 https://is.gd/xoFGbX
 #EXTINF:-1 group-title="EVENT" tvg-logo="",Mosaic5K (Yêu cầu IP Hàn)
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 group-title="RADIO" tvg-logo="",Love FM (Stream Melon Miễn Phí)
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",Love FM (Stream Melon Miễn Phí)
 https://is.gd/sTI3al
-#EXTINF:-1 group-title="RADIO" tvg-logo="",MBC FM Hệ Hình (Stream Khi Có Chương trình)
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",MBC FM Hệ Hình (Stream Khi Có Chương trình)
 https://is.gd/mifAlC
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
 https://is.gd/jbDtKq
-#EXTINF:-1 group-title="RADIO" tvg-logo="",HangMeasFM 104.5Mhz (HD 256Kpbs)
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",HangMeasFM 104.5Mhz (HD 256Kpbs)
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
 #EXTM3U billed-msg="UHD Checked"
