@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="DVB-T2 Bởi CVMedia [TẾT]" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
-http://p1.cvtv.xyz/vtv1?token=live
-#EXTINF:-1 group-title="DVB-T2 Bởi CVMedia [TẾT]" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
-http://p1.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 group-title="DVB-T2 Bởi CVMedia [TẾT]" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 5.1 Dolby Digital
-http://p1.cvtv.xyz/vtv3?token=live
-#EXTINF:-1 group-title="DVB-T2 Bởi CVMedia [TẾT]" tvg-id="vtv5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1280px-VTV5_logo_2013_final.svg.png",VTV5
-http://p1.cvtv.xyz/vtv5?token=live
+#EXTINF:-1 group-title="DVB-T2 Bởi CVMedia [TẾT]" tvg-id="fox5" tvg-logo="",CÁO5
+https://xyzdddd.mizhls.ru/lb/premium768/index.m3u8
 #EXTINF:-1 group-title="8K" tvg-logo="",BRTV 8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="8K" tvg-logo="",CCTV8K
