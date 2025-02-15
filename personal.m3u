@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="DVB-T2 Bởi CVMedia [TẾT]" tvg-id="fox5" tvg-logo="",CÁO5
-https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8?token=none
 #EXTINF:-1 group-title="8K" tvg-logo="",BRTV 8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="8K" tvg-logo="",CCTV8K
