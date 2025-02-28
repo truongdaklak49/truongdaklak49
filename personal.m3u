@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="8K" tvg-logo="",BRTV 8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 group-title="8K" tvg-logo="",CCTV8K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",M-ONTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/KBC_Gwangju_Broadcasting_logo.svg", 슈퍼 LOW
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/KBC_Gwangju_Broadcasting_logo.svg", TJB
@@ -80,11 +80,11 @@ https://is.gd/gcecfU
 https://is.gd/xoFGbX
 #EXTINF:-1 group-title="EVENT" tvg-logo="",Mosaic5K (Yêu cầu IP Hàn)
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",Love FM (Stream Melon Miễn Phí)
+#EXTINF:-1 group-title="Bora" tvg-logo="",Love FM (Stream Melon Miễn Phí)
 https://is.gd/sTI3al
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",MBC FM Hệ Hình (Stream Khi Có Chương trình)
+#EXTINF:-1 group-title="Bora" tvg-logo="",MBC FM Hệ Hình (Stream Khi Có Chương trình)
 https://is.gd/mifAlC
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
+#EXTINF:-1 group-title="Bora" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
 https://is.gd/jbDtKq
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",HangMeasFM 104.5Mhz (HD 256Kpbs)
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
