@@ -88,4 +88,8 @@ https://is.gd/mifAlC
 https://is.gd/jbDtKq
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",HangMeasFM 104.5Mhz (HD 256Kpbs)
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT Mekong
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTM3U billed-msg="UHD Checked"
