@@ -92,4 +92,6 @@ http://malisresidencess.com:89/broadwavehigh.mp3?src=1
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực TP HCM)
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTM3U billed-msg="UHD Checked"
