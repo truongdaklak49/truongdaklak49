@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="8K" tvg-logo="",BRTV 8K
+#EXTINF:-1 group-title="Kênh 8K - SUHD" tvg-logo="",BRTV 8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="",M-ONTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
