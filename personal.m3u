@@ -58,6 +58,18 @@ https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_plat
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://59.8.86.15:1935/live/60.stream/playlist.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Cambodian DTH UHD",Hang Meas NOW UHDTV
+http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Cambodian DTH UHD",Hang Meas MELODY UHDTV
+http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/chunklist_w815944957_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_PLAY_UHDTV.kh" tvg-logo="https://i.imgur.com/SSeLJWo.png" group-title="Cambodian DTH UHD",Hang Meas PLAY UHDTV
+http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/chunklist_w231709154_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_CINE_UHDTV.kh" tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="Cambodian DTH UHD",Hang Meas CINE UHDTV
+http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w11599795_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="Cambodian DTH UHD",Hang Meas GO UHDTV
+http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Cambodian DTH UHD",Hang Meas BOXING UHDTV
+http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghi Lộc
 http://net-radio.vov.link:8000/H_Nghi_Loc
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Thanh Chương
