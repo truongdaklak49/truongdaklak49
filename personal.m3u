@@ -4,7 +4,7 @@ http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="",M-ONTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="Info" tvg-logo="", HM Mobile Entertainment 6177
-https://api.onedrive.com/v1.0/drives/59c3f24312199adf/items/59C3F24312199ADF!122/content?format=dash&pretranscode=0&transcodeahead=0&part=index&ccat=2&psi=430344e1-de6a-49ea-840a-0a53b029aec3&authkey=%21AEpCbSOIIsi8NN0
+https://github.com/truongdaklak49/truongdaklak49/raw/refs/heads/main/D%E1%BB%B1%20%C3%A1n%20m%E1%BB%9Bi%208.mp4
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/KBC_Gwangju_Broadcasting_logo.svg", TJB
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", 강원
