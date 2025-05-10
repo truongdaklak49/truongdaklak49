@@ -102,6 +102,8 @@ https://is.gd/mifAlC
 https://is.gd/jbDtKq
 #EXTINF:-1 group-title="HangMeas" tvg-logo="",HangMeasFM 104.5Mhz (Từ 7 Giờ sáng - 9 Giờ tối)
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
+#EXTINF:-1 group-title="HangMeas" tvg-logo="",RHMFM 95.7Mhz
+http://malisresidencess.com:90/broadwavehigh.mp3?src=1
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT Mekong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
