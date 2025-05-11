@@ -92,11 +92,12 @@ http://43.252.18.195:5080/live/streams/cnctv.m3u8
 http://43.252.18.195:5080/live/streams/ctntv.m3u8
 #EXTINF:-1 group-title="CBS Campuchia" tvg-id="MyTV.kh",MyTV
 http://43.252.18.195:5080/live/streams/mytv.m3u8
-#EXTINF:-1 group-title="CBS Campuchia" tvg-id="PNN.kh",PNN (720p)
+#EXTINF:-1 group-title="CBS Campuchia" tvg-id="PNN.kh",PNN
 http://dodge.eu5.org/Get?id=8
 #EXTINF:-1 group-title="Khmer Khác" tvg-logo="https://i.imgur.com/oZPorvg.png" tvg-id="SEATV.kh",SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="Town Production" tvg-id="TownTV.kh",Town TV
+https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghi Lộc
 http://net-radio.vov.link:8000/H_Nghi_Loc
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Thanh Chương
