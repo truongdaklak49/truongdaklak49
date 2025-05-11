@@ -76,6 +76,27 @@ http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunkl
 http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas Boxing UHD [FightBox HD]
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
+#EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-id="TVK.kh",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/FYqvxUM.png" tvg-id="TVK2.kh",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-9 player-buffer="50" tvg-id="BayonTV.kh" tvg-name="Bayon TV (1080p)" tvg-logo="https://i.imgur.com/lrI4Gf9.png" group-title="Bayon - BTV",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bayon - BTV" tvg-id="BTVNews.kh",BTV News 
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khmer Khác" tvg-logo="https://i.imgur.com/iMZLyoX.png" tvg-id="TV5Cambodia.kh",TV5 Cambodia
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="CBS Campuchia",CNC 
+http://43.252.18.195:5080/live/streams/cnctv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="CBS Campuchia",CTN 
+http://43.252.18.195:5080/live/streams/ctntv.m3u8
+#EXTINF:-1 group-title="CBS Campuchia" tvg-id="MyTV.kh",MyTV
+http://43.252.18.195:5080/live/streams/mytv.m3u8
+#EXTINF:-1 group-title="CBS Campuchia" tvg-id="PNN.kh",PNN (720p)
+http://dodge.eu5.org/Get?id=8
+#EXTINF:-1 group-title="Khmer Khác" tvg-logo="https://i.imgur.com/oZPorvg.png" tvg-id="SEATV.kh",SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 group-title="Town Production" tvg-id="TownTV.kh",Town TV
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghi Lộc
 http://net-radio.vov.link:8000/H_Nghi_Loc
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Thanh Chương
