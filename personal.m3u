@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="Kênh 8K - SUHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/BRTV%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%998K.png/revision/latest?cb=20240209114642&path-prefix=vi",BRTV 8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="",HàNội4K
+https://cloudcdnvod.tek4tv.vn/event/live/event_mabr.m3u8?v=5
 #EXTINF:-1 group-title="Music" tvg-logo="",M-ONTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="Kun" tvg-logo="", ១
