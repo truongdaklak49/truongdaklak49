@@ -5,10 +5,6 @@ http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 https://cloudstreamqh.tek4tv.vn/live/hntv_events_4K/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="",M-ONTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="Kun" tvg-logo="", ១
-https://ythls-v2.onrender.com/video/zbUbEGFkA40.m3u8
-#EXTINF:-1 group-title="Kun" tvg-logo="", ២
-https://ythls-v2.onrender.com/video/a0iovJg2jU4.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/KBC_Gwangju_Broadcasting_logo.svg", TJB
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", 강원
@@ -62,7 +58,7 @@ https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_plat
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://59.8.86.15:1935/live/60.stream/playlist.m3u8
-#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="HangMeas",Rasmey Hang Meas HDTV
+#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/new_rhm_tv.png" group-title="HangMeas",Rasmey Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png" group-title="HangMeas",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
@@ -76,7 +72,7 @@ http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/chunkl
 http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w11599795_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas GO UHD
 http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas Boxing UHD [FightBox HD]
+#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",FightBox HD
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
 #EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-id="TVK.kh",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
@@ -126,9 +122,9 @@ https://is.gd/sTI3al
 https://is.gd/mifAlC
 #EXTINF:-1 group-title="Bora" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
 https://is.gd/jbDtKq
-#EXTINF:-1 group-title="HangMeas" tvg-logo="",HangMeasFM 104.5Mhz (Từ 7 Giờ sáng - 9 Giờ tối)
+#EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_104.png",HangMeasFM 104.5Mhz (Từ 7 Giờ sáng - 9 Giờ tối)
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
-#EXTINF:-1 group-title="HangMeas" tvg-logo="",RHMFM 95.7Mhz
+#EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_95.png",RHMFM 95.7Mhz
 http://malisresidencess.com:90/broadwavehigh.mp3?src=1
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT Mekong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
