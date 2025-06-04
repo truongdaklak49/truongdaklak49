@@ -102,19 +102,7 @@ http://net-radio.vov.link:8000/H_Nghi_Loc
 http://truyenthanhip.vov.link:8000/thanhchuong
 #EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghĩa Đàn
 http://net-radio.vov.link:8000/H_Nghia_Dan
-#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện K
-https://is.gd/z9zmk4
-#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện S
-https://is.gd/DtCxYN
-#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện M
-https://is.gd/pjiQAt
-#EXTINF:-1 group-title="EVENT" tvg-logo="", Sự Kiện SP
-https://is.gd/xNt8uP
-#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện SP2
-https://is.gd/gcecfU
-#EXTINF:-1 group-title="EVENT" tvg-logo="",Sự Kiện (DTV Dự Phòng)
-https://is.gd/xoFGbX
-#EXTINF:-1 group-title="EVENT" tvg-logo="",Multi KBO (Yêu cầu IP Hàn)
+#EXTINF:-1 group-title="EVENT" tvg-logo="",Multi KBO (U+)
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="Bora" tvg-logo="",Love FM (Stream Melon Miễn Phí)
 https://is.gd/sTI3al
@@ -122,7 +110,7 @@ https://is.gd/sTI3al
 https://is.gd/mifAlC
 #EXTINF:-1 group-title="Bora" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
 https://is.gd/jbDtKq
-#EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_104.png",HangMeasFM 104.5Mhz (Từ 7 Giờ sáng - 9 Giờ tối)
+#EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_104.png",HangMeasFM 104.5Mhz (Từ 6 Giờ sáng - 9 Giờ tối)
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
 #EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_95.png",RHMFM 95.7Mhz
 http://malisresidencess.com:90/broadwavehigh.mp3?src=1
@@ -132,4 +120,4 @@ https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực TP HCM)
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTM3U billed-msg="TVUHD | Đón Xem BeatTheBest Season 2 - 12:00 Mỗi Ngày trên NOW UHD"
+#EXTM3U billed-msg="Đón Xem BeatTheBest Season 2 - 12:00 Mỗi Ngày trên NOW UHD"
