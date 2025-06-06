@@ -3,10 +3,8 @@
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="",HanoiON 4K
 https://cloudstreamqh.tek4tv.vn/live/hntv_events_4K/index.m3u8
-#EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="",Hà Nội 2 4K (Adaptive cho Điện Thoại)
-https://cloudcdnvod.tek4tv.vn/live/hanoi2_abr.m3u8
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="",Hà Nội 2 4K (HanoiON)
-https://cloudstreamqh.tek4tv.vn/live/hanoi2.m3u8
+https://cloudcdnvod.tek4tv.vn/live/hanoi2_abr.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="",M-ONTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="", Hà Nội 2 4K (FPT UDP Thấp)
