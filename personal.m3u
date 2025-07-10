@@ -62,11 +62,11 @@ https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_plat
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://59.8.86.15:1935/live/60.stream/playlist.m3u8
-#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/new_rhm_tv.png" group-title="HangMeas",Rasmey Hang Meas HDTV
+#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/new_rhm_tv.png" group-title="Cambodian DTH UHD - PPV Boxing",RHMHDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://images.khmer24.co/25-03-30/sales-executive-231113174329080163412535-b.jpg" group-title="HangMeas",Hang Meas HDTV
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://images.khmer24.co/25-03-30/sales-executive-231113174329080163412535-b.jpg" group-title="Cambodian DTH UHD - PPV Boxing",HMHDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas NOW UHD
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Cambodian DTH UHD - PPV Boxing" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HMNOW UHD
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas Melody UHD
 http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/chunklist_w815944957_b1800000_sleng.m3u8
@@ -76,7 +76,7 @@ http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/chunkl
 http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w11599795_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas GO UHD
 http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",FightBox HD
+#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Cambodian DTH UHD - PPV Boxing" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",FightBox HD
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
 #EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-id="TVK.kh",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
