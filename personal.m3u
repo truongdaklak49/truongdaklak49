@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="Kênh 8K - SUHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/BRTV%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%998K.png/revision/latest?cb=20240209114642&path-prefix=vi",BRTV 8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 group-title="Mỹ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png",C-SPAN
-https://fl3.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="",HanoiON 4K
 https://cloudstreamqh.tek4tv.vn/live/hntv_events_4K/index.m3u8
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="",Hà Nội 2 4K (HanoiON)
@@ -13,8 +9,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:2
 udp://225.1.1.109:30120
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", 강원
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cjb_logo.svg/284px-Cjb_logo.svg.png", JB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="BTV KV Seoul" tvg-logo="https://yt3.googleusercontent.com/Lcne_mw-3l5V_BntNtQxumT2TN8uhs1jsXOqFKY_fD9HY1weYv1tvgHbzW6cEEw3O4ZU7xJ9Dw=s900-c-k-c0x00ffffff-no-rj", CH Btv Đông Seoul
 https://tbroad-228.live.wecandeo.com/live/7/228_high.m3u8
 #EXTINF:-1 group-title="BTV KV Seoul" tvg-logo="https://yt3.googleusercontent.com/Lcne_mw-3l5V_BntNtQxumT2TN8uhs1jsXOqFKY_fD9HY1weYv1tvgHbzW6cEEw3O4ZU7xJ9Dw=s900-c-k-c0x00ffffff-no-rj", CH Btv Tây Seoul
@@ -41,12 +35,6 @@ https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", MBC
 https://is.gd/CHmOTX
-#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", NTV HD Feed Gốc
-https://natv.vncdn.vn/natvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/2560px-KBS_JOY.svg.png", NTV HD Feed MEDIATECH
-https://vncdn.mediatech.vn/natvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", Nghệ An RADIO (Trễ 5 Phút)
-https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
 https://www.desizoneradio.com/relay1
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
@@ -59,9 +47,6 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 rtsp://182.139.235.40/PLTV/88888896/224/3221228638/761592560.smil
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
 https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_platform%3DWeb%26gdpr%3D1%26gdpr_pd%3D1%26gdpr_consent%3D
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", 화순해안
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://59.8.86.15:1935/live/60.stream/playlist.m3u8
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/new_rhm_tv.png" group-title="HangMeas",Rasmey Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://images.khmer24.co/25-03-30/sales-executive-231113174329080163412535-b.jpg" group-title="HangMeas",Hang Meas HDTV
@@ -86,12 +71,6 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bayon - BTV" tvg-id="BTVNews.kh",BTV News 
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-#EXTINF:-1 group-title="Khmer Khác" tvg-logo="https://i.imgur.com/iMZLyoX.png" tvg-id="TV5Cambodia.kh",TV5 Cambodia
-https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="CBS Campuchia",CNC 
-http://43.252.18.195:5080/live/streams/cnctv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="CBS Campuchia",CTN 
-http://43.252.18.195:5080/live/streams/ctntv.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb", Cambodian DTH UHD
 https://is.gd/introcbddthuhd
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",របៀបដំឡើងឈុតផ្ដាយរណប DTH ស៊េរីថ្មីប្រអប់ព័ណ៌លឿង
@@ -112,8 +91,6 @@ http://net-radio.vov.link:8000/H_Nghia_Dan
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="Bora" tvg-logo="",Love FM (Stream Melon Miễn Phí)
 https://is.gd/sTI3al
-#EXTINF:-1 group-title="Bora" tvg-logo="",MBC FM Hệ Hình (Stream Khi Có Chương trình)
-https://is.gd/mifAlC
 #EXTINF:-1 group-title="Bora" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
 https://is.gd/jbDtKq
 #EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_104.png",HangMeasFM 104.5Mhz (Từ 6 Giờ sáng - 9 Giờ tối)
