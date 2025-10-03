@@ -81,12 +81,6 @@ http://dodge.eu5.org/Get?id=8
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="",EBSFM (DJ Chung Su-je)
 https://ebsonair.ebs.co.kr/fmradiotablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghi Lộc
-http://net-radio.vov.link:8000/H_Nghi_Loc
-#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Thanh Chương
-http://truyenthanhip.vov.link:8000/thanhchuong
-#EXTINF:-1 group-title="Nghệ An Group" tvg-logo="", Truyền Thanh Nghĩa Đàn
-http://net-radio.vov.link:8000/H_Nghia_Dan
 #EXTINF:-1 group-title="EVENT" tvg-logo="",Multi KBO (U+)
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="Bora" tvg-logo="",Love FM (Stream Melon Miễn Phí)
