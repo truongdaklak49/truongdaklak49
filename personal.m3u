@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="Kênh Đa tín hiệu qua VPN " tvg-logo="",Das Estre
+#EXTINF:-1 group-title="ARD Mediathek" tvg-logo="",Das Erste (Full Chất Lượng 🔥)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="",Hà Nội 2 4K (HanoiON)
 https://cloudcdnvod.tek4tv.vn/live/hanoi2_abr.m3u8
