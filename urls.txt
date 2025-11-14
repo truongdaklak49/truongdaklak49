@@ -1,8 +1,7 @@
+https://cdn-videos.vtv.vn/66349b6076cb4dee98746cf1/2025/01/29/h264/mp4/2901-gap-nhau-cuoi-nam-v3-23862860513300241047565.mp4/master.m3u8
+https://cdn-videos.vtv.vn/66349b6076cb4dee98746cf1/2025/01/28/h264/mp4/2801-gap-nhau-cuoi-nam-65092522981325014684571.mp4/master.m3u8
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="ARD Mediathek" tvg-logo="",Das Erste (Full Chất Lượng 🔥)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="", Hà Nội 2 4K (FPT UDP Thấp)
-udp://225.1.1.109:30120
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", 강원
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BTV KV Seoul" tvg-logo="https://yt3.googleusercontent.com/Lcne_mw-3l5V_BntNtQxumT2TN8uhs1jsXOqFKY_fD9HY1weYv1tvgHbzW6cEEw3O4ZU7xJ9Dw=s900-c-k-c0x00ffffff-no-rj", CH Btv Đông Seoul
@@ -40,8 +39,8 @@ https://www.desizoneradio.com/relay2
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
 https://www.desizoneradio.com/relay3
 #EXTINF:-1 group-title="Vệ Tinh Ả Rập" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png?height=379.5&width=675&croppingPoint=&version=1&type=webp", SSC1 HD (Vệ Tinh QOBX)
+https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi",BRTV 4K (Yêu Cầu UDPXY Trung Quốc)
-rtsp://182.139.235.40/PLTV/88888896/224/3221228638/761592560.smil
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
 https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_platform%3DWeb%26gdpr%3D1%26gdpr_pd%3D1%26gdpr_consent%3D
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/new_rhm_tv.png" group-title="HangMeas",Rasmey Hang Meas HDTV
@@ -65,20 +64,17 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/FYqvxUM.png" tvg-id="TVK2.kh",TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-9 player-buffer="50" tvg-id="BayonTV.kh" tvg-name="Bayon TV (1080p)" tvg-logo="https://i.imgur.com/lrI4Gf9.png" group-title="Bayon - BTV",Bayon TV
-#EXTINF:-1 group-title="Bayon - BTV" tvg-id="BTVNews.kh",BTV News 
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb", Cambodian DTH UHD
 https://is.gd/introcbddthuhd
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",របៀបដំឡើងឈុតផ្ដាយរណប DTH ស៊េរីថ្មីប្រអប់ព័ណ៌លឿង
 https://is.gd/ebq5vs
-#EXTINF:-1 group-title="CBS Campuchia" tvg-id="PNN.kh",PNN
 http://dodge.eu5.org/Get?id=8
 #EXTINF:-1 group-title="Khmer Khác" tvg-logo="https://i.imgur.com/oZPorvg.png" tvg-id="SEATV.kh",SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="",EBSFM (DJ Chung Su-je)
 https://ebsonair.ebs.co.kr/fmradiotablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="",Multi KBO (U+)
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 group-title="Bora" tvg-logo="",Love FM (Stream Melon Miễn Phí)
 https://is.gd/sTI3al
 #EXTINF:-1 group-title="Bora" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",Power FM (Stream Melon Miễn Phí)
 https://is.gd/jbDtKq
@@ -86,10 +82,6 @@ https://is.gd/jbDtKq
 http://malisresidencess.com:89/broadwavehigh.mp3?src=1
 #EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_95.png",RHMFM 95.7Mhz
 http://malisresidencess.com:90/broadwavehigh.mp3?src=1
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT Mekong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực TP HCM)
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTM3U billed-msg="Đón Xem BeatTheBest Season 2 - 12:00 Mỗi Ngày trên NOW UHD"

@@ -1,0 +1,3 @@
+404 https://af.ayassport.ir/hls2/ssc1.m3u8
+000 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+000 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
