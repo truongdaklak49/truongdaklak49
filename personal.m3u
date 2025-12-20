@@ -21,21 +21,24 @@ https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
 https://is.gd/c5YeFc
 #EXTINF:-1 group-title="MBC+" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-drama-kr.png", MDrama
 https://is.gd/iD1KnA
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", GUGAK TV
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", Gugak TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm01.gif", GUGAK FM
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm01.gif", Gugak FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm03.gif", GUGAK FM DaeJeon
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm03.gif", Gugak FM DaeJeon
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mgugaklive.nowcdn.co.kr/gugakdaejeon/Daejeonradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", GUGAK FM Gwangju
+#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", Gugak FM Gwangju
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", Jeju
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="FreesatLK" tvg-logo="http://hiru.digital/reality_logos/Hiru_TV.png", HiruTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", MBC
 https://is.gd/CHmOTX
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", MBC (Subchannel)
