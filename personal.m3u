@@ -51,9 +51,6 @@ https://www.desizoneradio.com/relay1
 https://www.desizoneradio.com/relay2
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
 https://www.desizoneradio.com/relay3
-#EXTINF:-1 group-title="Vệ Tinh Ả Rập" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png?height=379.5&width=675&croppingPoint=&version=1&type=webp", SSC1 HD (Vệ Tinh QOBX)
-#EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi",BRTV 4K (Yêu Cầu UDPXY Trung Quốc)
-rtsp://182.139.235.40/PLTV/88888896/224/3221228638/761592560.smil
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
 https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_platform%3DWeb%26gdpr%3D1%26gdpr_pd%3D1%26gdpr_consent%3D
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/new_rhm_tv.png" group-title="HangMeas",Rasmey Hang Meas HDTV
