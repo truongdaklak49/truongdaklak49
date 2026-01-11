@@ -35,9 +35,11 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="http://hiru.digital/reality_logos/Hiru_TV.png", HiruTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://yt3.googleusercontent.com/DD1tsDwX2L5hDMhie3R3YQd_Otl4YrRua_OUCqxlKRtVCKuLLEu2qM44-w_zs-9NTMLohMJEJg=s900-c-k-c0x00ffffff-no-rj", Test
+#EXTINF:-1 group-title="Concert" tvg-logo="", DAZZ 8H - Galaxy Navatra
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://video.fhan14-5.fna.fbcdn.net/hvideo-nha-vll/_nc_cat-1/_nc_sr_t-4/v/rASd8fPR4qkmTb11SfjP67xZNeoJDSlpOya4lS-6jD3q9Xw/_nc_ohc-m2wn6xCUgeoQ7kNvwHIpaD1/live-dash/dash-abr5/869938945915551.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_Afo3U5PLGN2JtiTr-FpT04s2OrQ9jto2fiFZB3e_N-1TOQ&oe=69658237
+https://lc.cx/bPi9QH
+#EXTINF:-1 group-title="Concert" tvg-logo="", EXPREZ - Galaxy
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg", AajTak HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
