@@ -17,10 +17,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png", CJ ONSTYLE
 https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
-#EXTINF:-1 group-title="MBC+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/MBC_Every_1_logo.png", M1
-https://is.gd/c5YeFc
-#EXTINF:-1 group-title="MBC+" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-drama-kr.png", MDrama
-https://is.gd/iD1KnA
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", Gugak TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
