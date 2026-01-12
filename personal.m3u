@@ -38,8 +38,12 @@ https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 group-title="Concert" tvg-logo="", DAZZ 8H - Galaxy Navatra
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lc.cx/bPi9QH
-#EXTINF:-1 group-title="Concert" tvg-logo="", EXPREZ - Galaxy
-Blank
+#EXTINF:-1 group-title="Concert" tvg-logo="", Ganzberg - Galaxy
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://49.156.35.102:5080/LiveApp/streams/UE5OIEhEIFRW.m3u8
+#EXTINF:-1 group-title="Concert" tvg-logo="",Cambodia Cola - Water - Sunday
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://49.156.35.102:5080/live/streams/cnchdtv.playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg", AajTak HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
