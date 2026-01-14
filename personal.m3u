@@ -5,6 +5,8 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
 #EXTINF:-1 group-title="Town" tvg-logo="",About TOWN FULLHDTV
 https://is.gd/qB4SDe
+#EXTINF:-1 group-title="Town" tvg-logo="",TOWN 102.25Mhz
+http://110.74.192.88:8080/stream/55/
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="", Hà Nội 2 4K (FPT UDP Thấp)
 udp://225.1.1.109:30120
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", 강원
