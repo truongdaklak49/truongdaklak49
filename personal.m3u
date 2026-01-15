@@ -4,7 +4,7 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="Town" tvg-logo="",TOWN FULL HDTV
 http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
 #EXTINF:-1 group-title="Town" tvg-logo="",About TOWN FULLHDTV
-https://is.gd/qB4SDe
+https://my.microsoftpersonalcontent.com/_api/v2.1/drives/44F01C9E68FC047C/items/44F01C9E68FC047C!s0a84dc61b89045ceac1e1d069246196c/content?format=dash&pretranscode=0&transcodeahead=0&part=index&ccat=2&psi=a22f8990-8f23-4ff4-a400-7f4654ae705d
 #EXTINF:-1 group-title="Town" tvg-logo="",TOWN 102.25Mhz
 http://110.74.192.88:8080/stream/55/
 #EXTINF:-1 group-title="Kênh 4K - UHD" tvg-logo="", Hà Nội 2 4K (FPT UDP Thấp)
