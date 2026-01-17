@@ -41,6 +41,9 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="http://hiru.digital/reality_logos/Hiru_TV.png", HiruTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 group-title="FreesatLK" tvg-logo="",TVDerana
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://d3odral5lf3p4o.cloudfront.net/tv-derana/master.m3u8
 #EXTINF:-1 group-title="Concert" tvg-logo="", DAZZ 8H - Galaxy Navatra
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://lc.cx/bPi9QH
