@@ -90,7 +90,7 @@ http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist
 #EXTINF:-31 tvg-id="Hang_Meas_CINE_UHDTV.kh" tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="Cambodian DTH UHD",HangMeas CINE UHD
 http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas GO UHD
-http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmcgo.smil/playlist.m3u8
+http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",FightBox HD
 http://clive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-id="TVK.kh",TVK
@@ -117,4 +117,4 @@ https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực TP HCM)
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTM3U billed-msg="Ủng Hộ AE MEKONG"
+#EXTM3U billed-msg="Cambodian DTH UHD its back"
