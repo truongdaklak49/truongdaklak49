@@ -50,7 +50,7 @@ https://d3odral5lf3p4o.cloudfront.net/dflixChannel03/master.m3u8
 https://cp12.serverse.com/proxy/fmderana/stream
 #EXTINF:-1 group-title="Concert" tvg-logo="", VTVCab - Ổn Định Từng Giây - Đón Tết An Tâm
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://media.vtvcab.vn/website-vtvcab/video/2026/01/16/abb3fe97-2b45-4c3f-a045-592a349e007b.mp4
+https://is.gd/X1C4ji
 #EXTINF:-1 group-title="Concert" tvg-logo="", Ganzberg - Galaxy - PNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://49.156.35.102:5080/LiveApp/streams/UE5OIEhEIFRW.m3u8
@@ -105,6 +105,4 @@ http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực TP HCM)
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTM3U billed-msg="Cambodian DTH UHD its back"
