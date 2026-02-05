@@ -101,10 +101,6 @@ https://is.gd/ebq5vs
 https://ebsonair.ebs.co.kr/fmradiotablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="EVENT" tvg-logo="",Multi KBO (U+)
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_104.png",HangMeasFM 104.5Mhz (Từ 6 Giờ sáng - 9 Giờ tối)
-http://malisresidencess.com:89/broadwavehigh.mp3?src=1
-#EXTINF:-1 group-title="HangMeas" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/ic_95.png",RHMFM 95.7Mhz
-http://malisresidencess.com:90/broadwavehigh.mp3?src=1
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT Mekong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
