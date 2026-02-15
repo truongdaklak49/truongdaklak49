@@ -51,6 +51,9 @@ https://cp12.serverse.com/proxy/fmderana/stream
 #EXTINF:-1 group-title="Concert" tvg-logo="", VTVCab - Ổn Định Từng Giây - Đón Tết An Tâm
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://is.gd/X1C4ji
+#EXTINF:-1 group-title="Concert" tvg-logo="", Test Tín Hiệu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://lc.cx/lXed_d
 #EXTINF:-1 group-title="Concert" tvg-logo="", Ganzberg - Galaxy - PNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://49.156.35.102:5080/LiveApp/streams/UE5OIEhEIFRW.m3u8
