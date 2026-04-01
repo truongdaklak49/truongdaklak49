@@ -62,9 +62,9 @@ https://is.gd/X1C4ji
 #EXTINF:-1 group-title="Concert" tvg-logo="", Ganzberg - Galaxy - PNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://49.156.35.102:5080/LiveApp/streams/UE5OIEhEIFRW.m3u8
-#EXTINF:-1 group-title="Concert" tvg-logo="",Cambodia Cola - Water - Sunday - CNC
+#EXTINF:-1 group-title="Desh" tvg-logo="",BTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://49.156.35.102:5080/live/streams/cnchdtv.playlist.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg", AajTak HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
