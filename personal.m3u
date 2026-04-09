@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="Special" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cfeb5-0e36-74c4-9449-9243a0e0651f/compose?format=webp",Perfect Crown
 https://is.gd/5oeelc
-#EXTINF:-1 group-title="Special" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cfeb5-0e36-74c4-9449-9243a0e0651f/compose?format=webp",Phát sóng 10/4 lúc 19:35
+#EXTINF:-1 group-title="Special" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cfeb5-0e36-74c4-9449-9243a0e0651f/compose?format=webp",Phát sóng Thứ 6/Thứ 7 lúc 19:35
 https://is.gd/XdiT1Y
 #EXTINF:-1 group-title="Special" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cfeb5-0e36-74c4-9449-9243a0e0651f/compose?format=webp",Trên MBC
 https://is.gd/FUN0JX
-#EXTINF:-1 group-title="Special" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cfeb5-0e36-74c4-9449-9243a0e0651f/compose?format=webp",Và FPTPlay
+#EXTINF:-1 group-title="Special" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cfeb5-0e36-74c4-9449-9243a0e0651f/compose?format=webp", Phát sóng đồng thời trên Disney+
 https://is.gd/rcRvYN
 #EXTINF:-1 group-title="ARD Mediathek" tvg-logo="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
@@ -15,8 +15,6 @@ http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
 https://is.gd/LoIgES
 #EXTINF:-1 group-title="Town" tvg-logo="",TOWN 102.25Mhz
 http://110.74.192.88:8080/stream/55/
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", 강원
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://yt3.googleusercontent.com/Lcne_mw-3l5V_BntNtQxumT2TN8uhs1jsXOqFKY_fD9HY1weYv1tvgHbzW6cEEw3O4ZU7xJ9Dw=s900-c-k-c0x00ffffff-no-rj", CH Btv Seoul
 https://tbroad-228.live.wecandeo.com/live/7/228_high.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20251106T195311SQUARE.png", TV Chosun (Unblock Restrictions)
@@ -39,29 +37,11 @@ http://mgugaklive.nowcdn.co.kr/gugakdaejeon/Daejeonradio.stream/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", Gugak FM Gwangju
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/800px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png", JIBS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="http://hiru.digital/reality_logos/Hiru_TV.png", HiruTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://derana.lk/storage/uploads/imgs/header/1/20240614084224.gif",TVDerana
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://d3odral5lf3p4o.cloudfront.net/tv-derana/master.m3u8
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://dyp5fjwik91fw.cloudfront.net/posters/1738/source.webp",Ada Derana News Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://d3odral5lf3p4o.cloudfront.net/index/master.m3u8
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://dyp5fjwik91fw.cloudfront.net/posters/1740/source.webp",FMDerana Visual Radio
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://d3odral5lf3p4o.cloudfront.net/dflixChannel03/master.m3u8
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="https://dyp5fjwik91fw.cloudfront.net/posters/1740/source.webp",FMDerana
 https://cp12.serverse.com/proxy/fmderana/stream
-#EXTINF:-1 group-title="Concert" tvg-logo="", VTVCab - Ổn Định Từng Giây - Đón Tết An Tâm
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://is.gd/X1C4ji
-#EXTINF:-1 group-title="Concert" tvg-logo="", Ganzberg - Galaxy - PNN
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://49.156.35.102:5080/LiveApp/streams/UE5OIEhEIFRW.m3u8
 #EXTINF:-1 group-title="Desh" tvg-logo="",BTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
@@ -73,7 +53,7 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 https://is.gd/CHmOTX
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png",MBC (Tỉnh Ulsan - Low Latency)
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png",MBC - FHD (Local)
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png",MBC - FHD (Tỉnh Yeosu)
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", MBC (Tỉnh Daejeon)
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_35B40960.m3u8
