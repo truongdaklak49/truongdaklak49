@@ -91,10 +91,6 @@ https://ebsonair.ebs.co.kr/fmradiotablet500k/tablet500k/playlist.m3u8
 http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT Mekong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 group-title="VOH" type="radio" tvg-logo="",VOH 959
-https://livecdn-vthcm-bp.vieon.vn/9b0a97da7ffbe092a5c3beca90de0081/1773486624000/livetv/group-07/2f46beba326f40af7467e58cbbc5da18/playlist.m3u8?c=h
-#EXTINF:-1 group-title="VOH" type="radio" tvg-logo="",VOH 999
-https://livecdn-vthcm-bp.vieon.vn/9b0db703148f85090cdaae892f3ebddf/1773486671000/livetv/group-07/0a56ed233c3535fc20610b3cd416465f/playlist.m3u8?c=h
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
