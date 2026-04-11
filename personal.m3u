@@ -44,7 +44,7 @@ https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="https://dyp5fjwik91fw.cloudfront.net/posters/1740/source.webp",FMDerana
 https://cp12.serverse.com/proxy/fmderana/stream
-#EXTINF:-1 group-title="Desh" tvg-logo="",BTV
+#EXTINF:-1 group-title="Desh" tvg-logo="",BTV Bangladesh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
