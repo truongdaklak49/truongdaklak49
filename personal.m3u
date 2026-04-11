@@ -77,7 +77,7 @@ http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist
 http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas GO UHD
 http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",DTV UHD INFO
+#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",DTH UHD Info
 http://clive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-id="TVK.kh",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
@@ -87,8 +87,6 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://is.gd/ebq5vs
 #EXTINF:-1 group-title="KOREA" tvg-logo="",EBSFM (DJ Chung Su-je)
 https://ebsonair.ebs.co.kr/fmradiotablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="",Multi KBO (U+)
-http://211.170.95.22/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT Mekong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
