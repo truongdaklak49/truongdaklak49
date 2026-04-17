@@ -51,6 +51,12 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg", AajTak HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",IndiaToday - HD720
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",GNT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", MBC
 https://is.gd/CHmOTX
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png",MBC (Tỉnh Ulsan - Low Latency)
@@ -67,8 +73,6 @@ https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_plat
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://images.khmer24.co/25-03-30/sales-executive-231113174329080163412535-b.jpg" group-title="HangMeas",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="Dành cho Đồng bào Khmer tại Việt Nam" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (Luồng FPT)
-rtp://@232.84.3.86:11542
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas Now UHD
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HangMeas Melody UHD
