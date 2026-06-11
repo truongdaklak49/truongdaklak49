@@ -9,8 +9,6 @@ https://is.gd/LoIgES
 http://110.74.192.88:8080/stream/55/
 #EXTINF:-1 group-title="Khmer cho Đồng bào Khmer ở Miền Tây" tvg-id="VTV5TayNamBo.vn@HD",VTV5 Tây Nam Bộ HD
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
-#EXTINF:-1 group-title="Khmer cho Đồng bào Khmer ở Miền Tây" tvg-id="CanThoTV3.vn@SD",Cần Thơ TV3
-https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20251106T195311SQUARE.png", TV Chosun (Unblock Restrictions)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
