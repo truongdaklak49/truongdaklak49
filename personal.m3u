@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="ARD Mediathek" tvg-logo="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 group-title="Town" tvg-logo="",TOWN FULLHD TV (Off due to DTHUHD Upgrade)
-https://shorturl.at/22XWg
+#EXTINF:-1 group-title="Town" tvg-logo="",TOWN FULLHD TV (Not SkyOneTV stream)
+http://49.156.35.102:5080/live/streams/towntvhd.playlist.m3u8
 #EXTINF:-1 group-title="Town" tvg-logo="",About TOWN FULLHD TV
 https://is.gd/LoIgES
 #EXTINF:-1 group-title="Town" tvg-logo="",TOWN 102.25Mhz
