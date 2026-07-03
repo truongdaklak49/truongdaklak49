@@ -7,6 +7,8 @@ http://49.156.35.102:5080/live/streams/towntvhd.playlist.m3u8
 https://is.gd/LoIgES
 #EXTINF:-1 group-title="Town" tvg-logo="",TOWN 102.25Mhz
 http://110.74.192.88:8080/stream/55/
+#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",TV9 HD (DTHUHD Info)
+http://43.245.219.190:8183/CTV9HD@1.m3u8
 #EXTINF:-1 group-title="Khmer cho Đồng bào Khmer ở Miền Tây" tvg-id="VTV5TayNamBo.vn@HD",VTV5 Tây Nam Bộ HD
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20251106T195311SQUARE.png", TV Chosun (Unblock Restrictions)
