@@ -44,6 +44,12 @@ https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="THAIDGT" tvg-logo="",ThaiPBS AIvertical
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://thaipbs-uktst7.cdn.byteark.com/fleetstream/Wildmoka/index.m3u8
+#EXTINF:-1 group-title="Event" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Trường Quay VTVCab (Powered by VTVPrime)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
 #EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg", AajTak HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
