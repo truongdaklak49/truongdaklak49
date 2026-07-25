@@ -107,10 +107,8 @@ http://49.156.35.102:5080/live/streams/ctnhdtv.playlist.m3u8
 http://46.250.227.220/LiveApp/streams/mytvhd.playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",CNC
 http://46.250.227.220/LiveApp/streams/cnchdtv.playlist.m3u8
-#EXTINF:-1 group-title="Event" tvg-logo="",Ganzberg GiantScreen H265
-https://video.fhan2-5.fna.fbcdn.net/hvideo-pnb-ftw/_nc_cat-109/_nc_sr_t-4/v/rASc6QbkjrUyhbuUvD-LEg-K_zMSO0o24fcLpYHnoXUDxNw/_nc_ohc-pc6-o9TDZNkQ7kNvwFi8ubr/live-dash/dash-abr5/1349578804025361.mpd?_nc_ad=z-m&_nc_cid=0&_nc_rml=0&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQDuTMKkDIBMZN98wGXUFcKiNJA_YCAmxHO5_octhpsKtQ&oe=6A5EA731
-#EXTINF:-1 group-title="Event" tvg-logo="",XFactor Event H265
-https://video.fhan2-4.fna.fbcdn.net/hvideo-cco-prn/_nc_cat-110/_nc_sr_t-4/v/rASfCSxcO3YHB3k8Hv6N-H5N6_SFynziKqIFRb9rmMJwlug/_nc_ohc-NGUBqURTT2IQ7kNvwEhFi-g/live-dash/dash-abr5/1436895508471719.mpd?_nc_ad=z-m&_nc_cid=0&_nc_rml=0&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQChmyKIx3fFr61b962w3TRxpmLh5kWO5zn8asPp9dcYJw&oe=6A5EA9FE
+#EXTINF:-1 group-title="Event" tvg-logo="",TestFBKOMSAN
+https://video.fhan14-1.fna.fbcdn.net/hvideo-ldc-frc/_nc_cat-107/_nc_sr_t-4/v/rASdNaK8oOgjnI8_TKDRteizeYqO-UciEMH7aQqny2Rem1w/_nc_ohc-hShWoyCdVFoQ7kNvwE0GIo0/live-dash/dash-abr5/1454810966676367.mpd?_nc_ad=z-m&_nc_cid=0&_nc_rml=0&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQCJ8l8BvhBkwYTxz2m0VerbLYdR4fof_GKBbhslaC2W5g&oe=6A662564
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
