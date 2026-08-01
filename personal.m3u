@@ -96,13 +96,13 @@ http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u
 #EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",DTH Info
 http://clive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",BayonTV
-http://49.156.35.102:5080/live/streams/bayonhd.playlist.m3u8
+http://46.250.227.220/Stream/streams/bayonhd.playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",BTV News
-http://46.250.227.220/LiveApp/streams/btvhd.playlist.m3u8
+http://46.250.227.220/Stream/streams/btvhd.playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb", FreshNews HD - Event HD
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",CTN
-http://49.156.35.102:5080/live/streams/ctnhdtv.playlist.m3u8
+http://46.250.227.220/live/streams/ctnhdtv.playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",MYTV
 http://46.250.227.220/LiveApp/streams/mytvhd.playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",CNC
@@ -117,4 +117,4 @@ https://www.desizoneradio.com/relay1
 https://www.desizoneradio.com/relay2
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
 https://www.desizoneradio.com/relay3
-#EXTM3U billed-msg="DTH UHD ត្រូវបានធ្វើឱ្យប្រសើរឡើងទៅជា 4K UHD H265|សម្រាប់ព័ត៌មានបន្ថែម សូមចូលទៅកាន់ក្រុម Cambodian DTH UHD។|ឬទូរស័ព្ទមកលេខ 095919189 - 086919189"
+#EXTM3U billed-msg="Cambodian DTH UHD - 095919189"
