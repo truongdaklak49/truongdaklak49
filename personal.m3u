@@ -1,13 +1,11 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="ARD Mediathek" tvg-logo="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 group-title="Town" tvg-logo="",TOWN FULLHD TV (Not SkyOneTV stream)
-http://49.156.35.102:5080/live/streams/towntvhd.playlist.m3u8
 #EXTINF:-1 group-title="Town" tvg-logo="",About TOWN FULLHD TV
 https://is.gd/LoIgES
 #EXTINF:-1 group-title="Town" tvg-logo="",TOWN 102.25Mhz
 http://110.74.192.88:8080/stream/55/
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",TV9 HD (DTHUHD Info)
+#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",TV9 HD
 http://43.245.219.190:8183/CTV9HD@1.m3u8
 #EXTINF:-1 group-title="Khmer cho Đồng bào Khmer ở Miền Tây" tvg-id="VTV5TayNamBo.vn@HD",VTV5 Tây Nam Bộ HD
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
@@ -73,7 +71,7 @@ https://x.gd/kcl7I
 https://is.gd/RTyvRG
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",របៀបដំឡើងឈុតផ្ដាយរណប DTH ស៊េរីថ្មីប្រអប់ព័ណ៌លឿង
 https://is.gd/ebq5vs
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://images.khmer24.co/25-03-30/sales-executive-231113174329080163412535-b.jpg" catchup="shift" catchup-days="1" catchup-source="http://46.250.227.220/Stream/streams/hmhdtv.playlist{offset}.ts" group-title="HangMeas",Hang Meas HDTV (Temp SV)
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://images.khmer24.co/25-03-30/sales-executive-231113174329080163412535-b.jpg" catchup="shift" catchup-days="1" catchup-source="http://46.250.227.220/Stream/streams/hmhdtv.playlist{offset:09d}.ts" group-title="HangMeas",Hang Meas HDTV (Temp SV)
 http://46.250.227.220/Stream/streams/hmhdtv.playlist.m3u8
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/new_rhm_tv.png" group-title="HangMeas",Rasmey Hang Meas HDTV
 https://shorturl.at/22XWg
