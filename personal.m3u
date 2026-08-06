@@ -103,8 +103,8 @@ http://46.250.227.220/LiveApp/streams/mytvhd.playlist.m3u8
 http://46.250.227.220/LiveApp/streams/cnchdtv.playlist.m3u8
 #EXTINF:-1 group-title="Event" tvg-logo="",ONEMUSIX8
 https://live.happywatch99.com/apsara11/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Event" tvg-logo="",XFactor Event
-https://video.fhan14-5.fna.fbcdn.net/hvideo-cco-frc/_nc_cat-104/_nc_sr_t-4/v/rASeywDzRMTbYzfDeu3D36kKQTB6di3EBHoA2whxCaNJmSQ/_nc_ohc-IBR6j0G2c-sQ7kNvwFoNCwq/live-dash/dash-abr5/1448840033943933.mpd?_nc_ad=z-m&_nc_cid=0&_nc_rml=0&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQFqAhwWryFyUkGHXs6df19T50yeGo5TFU8X4tcoxD-Z-A&oe=6A710624
+#EXTINF:-1 group-title="Event" tvg-logo="",FPT 4KUHD HEVC H265
+udp://@225.1.2.203:30120
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
