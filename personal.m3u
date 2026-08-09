@@ -107,8 +107,8 @@ http://46.250.227.220/Stream/streams/tv5hdtv.playlist.m3u8
 https://live.happywatch99.com/apsara11/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Event" tvg-logo="",FPT 4KUHD HEVC H265
 udp://@225.1.2.203:30120
-#EXTINF:-1 group-title="Event" tvg-logo="",XFactor Event 4KUHD Live
-https://video.fhan14-5.fna.fbcdn.net/hvideo-cco-vll/_nc_cat-109/_nc_sr_t-4/v/rASc-B9dr2R8iTJY-v7FQLEuBX3VdVuxtAozf2lCXDrw24Q/_nc_ohc-Y1lxTK2IMugQ7kNvwFDOl1i/live-dash/dash-abr5/1455012643326672.mpd?_nc_ad=z-m&_nc_cid=0&_nc_rml=0&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQGXVNtX3pTENPq8OZJcxEIlsNqCvbztjKngzLN5RvAxXw&oe=6A7A3F07
+#EXTINF:-1 group-title="Event" tvg-logo="",XFactor Event 4KUHD
+https://is.gd/RTyvRG
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
