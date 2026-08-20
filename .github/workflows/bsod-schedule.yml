@@ -2,6 +2,7 @@ name: BSOD KBS 1Radio schedule
 
 on:
   schedule:
+    - cron: '58 4 * * *'
     - cron: '59 4 * * *'
     - cron: '19 5 * * *'
   workflow_dispatch:
@@ -12,6 +13,7 @@ on:
         default: 'override'
         type: choice
         options:
+          - backup
           - override
           - restore
 
@@ -48,6 +50,8 @@ jobs:
           MODE=''
           if [[ "${{ github.event_name }}" == 'workflow_dispatch' ]]; then
             MODE='${{ inputs.action }}'
+          elif [[ "$TIME" == '11:58' ]]; then
+            MODE='backup'
           elif [[ "$TIME" == '11:59' ]]; then
             MODE='override'
           elif [[ "$TIME" == '12:19' ]]; then
@@ -61,16 +65,23 @@ jobs:
           PLAYLIST='personal.m3u'
           BSOD_URL='https://radio.bsod.kr/stream?stn=kbs&ch=1radio&bora=true'
 
-          if [[ "$MODE" == 'override' ]]; then
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          if [[ "$MODE" == 'backup' ]]; then
+            if [[ -f "$BACKUP" ]]; then
+              echo 'Backup already exists; refusing to replace the original backup.'
+              exit 1
+            fi
+            cp "$PLAYLIST" "$BACKUP"
+            git add "$BACKUP"
+            git commit -m 'Backup personal playlist before KBS 1Radio override'
+            git push
+
+          elif [[ "$MODE" == 'override' ]]; then
             if [[ ! -f "$BACKUP" ]]; then
-              cp "$PLAYLIST" "$BACKUP"
-              git add "$BACKUP"
-              git config user.name 'github-actions[bot]'
-              git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-              git commit -m 'Backup personal playlist before KBS 1Radio override'
-              git push
-            else
-              echo 'Backup already exists; keeping the original backup.'
+              echo 'Backup file not found; refusing to switch playlist.'
+              exit 1
             fi
 
             cat > "$PLAYLIST" <<EOF
@@ -80,9 +91,7 @@ $BSOD_URL
 EOF
 
             git add "$PLAYLIST"
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit -m 'Temporarily switch playlist to KBS 1Radio' || echo 'Playlist already in KBS 1Radio state.'
+            git commit -m 'Temporarily switch playlist to KBS 1Radio'
             git push
 
           elif [[ "$MODE" == 'restore' ]]; then
@@ -95,8 +104,6 @@ EOF
             rm "$BACKUP"
 
             git add "$PLAYLIST" "$BACKUP"
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git commit -m 'Restore personal playlist after KBS 1Radio window'
             git push
           fi
