@@ -1,4 +1,4 @@
-name: BSOD KBS 1Radio schedule
+name: BSOD KBS SOS schedule
 
 on:
   schedule:
@@ -84,11 +84,7 @@ jobs:
               exit 1
             fi
 
-            cat > "$PLAYLIST" <<EOF
-#EXTM3U
-#EXTINF:-1 group-title="SOS",KBS SOS
-$BSOD_URL
-EOF
+            printf '%s\n' '#EXTM3U' '#EXTINF:-1 group-title="SOS",KBS SOS' "$BSOD_URL" > "$PLAYLIST"
 
             git add "$PLAYLIST"
             git commit -m 'Temporarily switch playlist to KBS SOS'
