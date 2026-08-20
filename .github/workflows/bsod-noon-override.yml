@@ -1,0 +1,93 @@
+name: Noon BSOD playlist override
+
+on:
+  schedule:
+    # 12:00 and 12:20 Vietnam time (UTC+7) on August 20, 2026.
+    - cron: "0 5 20 8 *"
+    - cron: "20 5 20 8 *"
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Action to perform"
+        required: true
+        type: choice
+        options:
+          - override
+          - restore
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noon-bsod-override
+  cancel-in-progress: false
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Decide action
+        id: decide
+        shell: bash
+        env:
+          MANUAL_ACTION: ${{ inputs.action }}
+        run: |
+          if [ -n "$MANUAL_ACTION" ]; then
+            echo "action=$MANUAL_ACTION" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # GitHub cron uses UTC. 05:00 UTC = 12:00 ICT and 05:20 UTC = 12:20 ICT.
+          NOW_UTC="$(date -u +'%Y-%m-%d %H:%M')"
+          case "$NOW_UTC" in
+            "2026-08-20 05:00") echo "action=override" >> "$GITHUB_OUTPUT" ;;
+            "2026-08-20 05:20") echo "action=restore" >> "$GITHUB_OUTPUT" ;;
+            *) echo "action=none" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Override playlist with KBS 1Radio
+        if: steps.decide.outputs.action == 'override'
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f personal.m3u
+          test ! -f .github/bsod-personal.m3u
+          cp personal.m3u .github/bsod-personal.m3u
+          cat > personal.m3u <<'EOF'
+          #EXTM3U
+          #EXTINF:-1 group-title="Radio",KBS 1Radio
+          https://radio.bsod.kr/stream?stn=kbs&ch=1radio&bora=true
+          EOF
+
+      - name: Restore original playlist
+        if: steps.decide.outputs.action == 'restore'
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f .github/bsod-personal.m3u
+          cp .github/bsod-personal.m3u personal.m3u
+          rm .github/bsod-personal.m3u
+
+      - name: Commit changes
+        if: steps.decide.outputs.action == 'override' || steps.decide.outputs.action == 'restore'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add personal.m3u .github/bsod-personal.m3u
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          if [ "${{ steps.decide.outputs.action }}" = "override" ]; then
+            git commit -m "Temporarily switch playlist to KBS 1Radio"
+          else
+            git commit -m "Restore playlist after KBS 1Radio override"
+          fi
+          git push
