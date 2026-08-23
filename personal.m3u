@@ -1,71 +1,7 @@
-#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="ARD Mediathek" tvg-logo="",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 group-title="Town" tvg-logo="",About TOWN FULLHD TV
-https://is.gd/LoIgES
-#EXTINF:-1 group-title="Town" tvg-logo="",Town FullHD TV
-https://myip.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
-#EXTINF:-1 group-title="Town" tvg-logo="",TOWN 102.25Mhz
-http://110.74.192.88:8080/stream/55/
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",TV9 HD
-http://43.245.219.190:8183/CTV9HD@1.m3u8
-#EXTINF:-1 group-title="Khmer cho Đồng bào Khmer ở Miền Tây" tvg-id="VTV5TayNamBo.vn@HD",VTV5 Tây Nam Bộ HD
-https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20251106T195311SQUARE.png", TV Chosun (Unblock Restrictions)
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/1280px-TV_Chosun_Logo_%28English%29.svg.png", TV Chosun 2 (UBRestricted)
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png",G1 (Gangwon)
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png", CJ ONSTYLE
-https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_igbf.png", Gugak TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm01.gif", Gugak FM
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm03.gif", Gugak FM DaeJeon
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://mgugaklive.nowcdn.co.kr/gugakdaejeon/Daejeonradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.igbf.kr/gugak_web/img/common/img_fm02.gif", Gugak FM Gwangju
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://mgugaklive.nowcdn.co.kr/gugakgwangju/Glive.stream/playlist.m3u8
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="http://hiru.digital/reality_logos/Hiru_TV.png", HiruTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://dyp5fjwik91fw.cloudfront.net/posters/1740/source.webp",FMDerana
-https://cp12.serverse.com/proxy/fmderana/stream
-#EXTINF:-1 group-title="THAIDGT" tvg-logo="",ThaiPBS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="THAIDGT" tvg-logo="",ThaiPBS AIvertical
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://thaipbs-uktst7.cdn.byteark.com/fleetstream/Wildmoka/index.m3u8
-#EXTINF:-1 group-title="Event" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Trường Quay VTVCab (Powered by VTVPrime)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg", AajTak HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",IndiaToday - HD720
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="FreesatLK" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",GNT
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", MBC
-https://is.gd/CHmOTX
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://www.bigtop40.com/assets_v4r/bigtop40/img/logos/large.png",BIG TOP 40
-https://media-ssl.musicradio.com/BigTop40?dax_player%3DBigTop40Player%26dax_platform%3DWeb%26gdpr%3D1%26gdpr_pd%3D1%26gdpr_consent%3D
-#EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-id="TVK.kh",TVK
+#EXTM3U
+#EXTINF:-1 group-title="TVK" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-id="TVK.kh",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 group-title="TVK (Chính Phủ Campuchia)" tvg-logo="https://i.imgur.com/FYqvxUM.png" tvg-id="TVK2.kh",TVK 2
+#EXTINF:-1 group-title="TVK" tvg-logo="https://i.imgur.com/FYqvxUM.png" tvg-id="TVK2.kh",TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",សូមទូរស័ព្ទទៅលេខ 095919189 ដើម្បីទស្សនាការប្រកួត Euro 2028 ទាំងមូលនៅលើ DTHUHD។
 https://x.gd/kcl7I
@@ -73,50 +9,4 @@ https://x.gd/kcl7I
 https://is.gd/RTyvRG
 #EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",របៀបដំឡើងឈុតផ្ដាយរណប DTH ស៊េរីថ្មីប្រអប់ព័ណ៌លឿង
 https://is.gd/ebq5vs
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://images.khmer24.co/25-03-30/sales-executive-231113174329080163412535-b.jpg" group-title="HangMeas",Hang Meas HDTV (Temp SV - Under Mantinance)
-http://46.250.227.220/Stream/streams/hmhdtv.playlist.m3u8
-#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://raw.githubusercontent.com/truongdaklak49/truongdaklak49/refs/heads/main/new_rhm_tv.png" group-title="HangMeas",Rasmey Hang Meas HDTV (Temp SV)
-http://46.250.227.220/Stream/streams/rhmhdtv.playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HM NOW UHD 265
-http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HM Melody UHD 265
-http://clive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HM Melody UHD 265 SV2
-http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_PLAY_UHDTV.kh" tvg-logo="https://i.imgur.com/SSeLJWo.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HM Play UHD 265
-http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_CINE_UHDTV.kh" tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="Cambodian DTH UHD",HM CINE UHD 265
-http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",HM Sport UHD 265
-http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",DTH Info
-http://clive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",BayonTV
-http://46.250.227.220/Stream/streams/bayonhd.playlist.m3u8
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",BTV News
-http://46.250.227.220/Stream/streams/btvhd.playlist.m3u8
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb", FreshNews HD - Event HD
-http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",CTN
-http://46.250.227.220/Stream/streams/ctnhdtv.playlist.m3u8
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",MyTV
-http://46.250.227.220/Stream/streams/mytvhd.playlist.m3u8
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",TV5 Cambodia (Moinfo SV)
-http://46.250.227.220/Stream/streams/tv5hdtv.playlist.m3u8
-#EXTINF:-1 group-title="Cambodian DTH UHD" group-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb" tvg-logo="https://lh4.googleusercontent.com/proxy/7I0I616Yn0EfXctGDV9kZDDvSpq6Gj9UdUQpzlqghhw9n7qwuXkHPQHvf4151t853_BgDm7_mLpXZPrX4e0X4LCrs5U5qD8KBe5-qaDjgQdaKYN2ennMjQUb",Apsara11
-https://live.happywatch99.com/apsara11/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Event" tvg-logo="",FPT 4KUHD HEVC H265
-udp://@225.1.2.203:30120
-#EXTINF:-1 group-title="Event" tvg-logo="",XFactor Event 4KUHD
-https://is.gd/RTyvRG
-#EXTINF:-1 group-title="Event" tvg-logo="",Galaxy TV4K
-
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="",VOVGT (Khu Vực Hà Nội)
-https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/images/logo.png", DesiZone Radio
-https://www.desizoneradio.com/relay1
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/00s/images/logo.png", DesiHits 2000s
-https://www.desizoneradio.com/relay2
-#EXTINF:-1 group-title="Radio" type="radio" tvg-logo="https://desizoneradio.com/90s/images/logo.png", Nostalgic Bollywood 90s
-https://www.desizoneradio.com/relay3
 #EXTM3U billed-msg="Cambodian DTH UHD - 095919189"
